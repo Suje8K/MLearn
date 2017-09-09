@@ -1,6 +1,6 @@
 MASTER OF THE GAME
 SIDNEY SHELDON
-Copyright © 1982 by Sheldon Literary Trust
+Copyright   1982 by Sheldon Literary Trust
 PROLOGUE
 Kate 1982
 The large ballroom was crowded with familiar ghosts come to help celebrate her birthday. Kate Blackwell
@@ -54,7 +54,8 @@ The governor eulogized her. "... One of the most remarkable women in the history
 Blackwell's endowments to hundreds of charitable causes around the world are legendary. The Blackwell
 Foundation has contributed to the health and well-being of people in more than fifty countries. To
 
-paraphrase the late Sir Winston Churchill, 'Never have so many owed so much to one person.' I have had
+ 
+paraphrase the late Sir Winston Churchill, 'Never have so many owed so much to one person.' I have had
 the privilege of knowing Kate Blackwell..."
 Bloody hell! Kate thought. No one knows me. He sounds like he's talking about some saint. What would all
 these people say if they knew the real Kate Blackwell? Sired by a thief and kidnapped before I was a year
@@ -115,7 +116,8 @@ to this distant, desolate place because he dreamed of being rich. Jamie was not 
 rewards of tilling the rocky little farm north of Aberdeen were meager. He worked from sunup to sundown,
 along with his brothers, his sister, Mary, and his mother and his father, and they had little to show for it. He
 
-had once attended a fair in Edinburgh and had seen the wondrous things of beauty that money could buy.
+ 
+had once attended a fair in Edinburgh and had seen the wondrous things of beauty that money could buy.
 Money was to make your life easy when you were well, and to take care of your needs when you were
 ailing. Jamie had seen too many friends and neighbors live and die in poverty.
 He remembered his excitement when he first heard about the latest diamond strike in South Africa. The
@@ -175,7 +177,8 @@ city. He had arrived.
 The moment the ship made fast to the wharf, the decks were overrun by a horde of the strangest-looking
 people Jamie had ever seen. There were touts for all the different hotels—black men, yellow men, brown
 
-men and red men frantically offering to bear away luggage—and small boys running back and forth with
+ 
+men and red men frantically offering to bear away luggage—and small boys running back and forth with
 newspapers and sweets and fruits for sale. Hansom drivers who were half-castes, Parsis or blacks were
 yelling their eagerness to be hired. Vendors and men pushing drinking carts called attention to their wares.
 The air was thick with huge black flies. Sailors and porters hustled and halloaed their way through the crowd
@@ -233,7 +236,8 @@ to stop him, not the exhausting labor, or the foul air he breathed or the flies 
 night. He felt desperately lonely. He knew no one in this strange place, and he missed his friends and family.
 Jamie enjoyed solitude, but loneliness was a constant ache.
 
-At last, the magic day arrived. His pouch held the magnificent sum of two hundred pounds. He was ready.
+ 
+At last, the magic day arrived. His pouch held the magnificent sum of two hundred pounds. He was ready.
 He would leave Cape Town the following morning for the diamond fields.
 Reservations for passenger wagons to the diamond fields at Klipdrift were booked by the Inland Transport
 Company at a small wooden depot near the docks. When Jamie arrived at 7:00 am., the depot was already
@@ -293,7 +297,8 @@ their way to the diamond fields at Klipdrift.
 By bullock wagon, the journey was relatively comfortable. The wagons transporting passengers from Cape
 Town to the diamond fields were large and roomy, with tent covers to ward off the blazing winter sun. Each
 
-wagon accommodated a dozen passengers and was drawn by teams of horses or mules. Refreshments
+ 
+wagon accommodated a dozen passengers and was drawn by teams of horses or mules. Refreshments
 were provided at regular stations, and the journey took ten days.
 The mail cart was different. It never stopped, except to change horses and drivers. The pace was a full
 gallop, over rough roads and fields and rutted trails. There were no springs on the cart, and each bounce
@@ -349,7 +354,8 @@ feverishly discussing the subject uppermost in everyone's mind: diamonds.
 "... There's still a few diamonds left around Hopetown, but the mother lode's at New Rush-----"
 "... Kimberley's got a bigger population than Joburg-----"
 
-"... About the find up at Dutoitspan last week? They say there's more diamonds there than a man can
+ 
+"... About the find up at Dutoitspan last week? They say there's more diamonds there than a man can
 carry...."
 "... There's a new strike at Christiana. I'm goin' up there tomorrow."
 So it was true. There were diamonds everywhere! Young Jamie was so excited he could hardly finish his
@@ -406,7 +412,8 @@ and tea and tobacco and snuff and cigars ... A dozen shelves were filled from to
 shirts and blankets, shoes, poke bonnets and saddles. Whoever owns all this, Jamie thought, is a rich man.
 A soft voice behind him said, "Can I help you?"
 
-Jamie turned and found himself facing a young girl. He judged she was about fifteen. She had an interesting
+ 
+Jamie turned and found himself facing a young girl. He judged she was about fifteen. She had an interesting
 face, fine-boned and heart-shaped, like a valentine, a pert nose and intense green eyes. Her hair was dark
 and curling. Jamie, looking at her figure, decided she might be closer to sixteen.
 "I'm a prospector," Jamie announced. "I'm here to buy some equipment."
@@ -466,7 +473,8 @@ best he could with the worn linen towel and started to get dressed. His pants an
 and he hated to put them back on. He would have to buy a change of clothes, and this reminded him once
 more of how little money he had. And he was hungry again.
 
-Jamie left the bathhouse and pushed his way down the crowded street to a saloon called the Sundowner.
+ 
+Jamie left the bathhouse and pushed his way down the crowded street to a saloon called the Sundowner.
 He, ordered a beer and lunch. Lamb cutlets with tomatoes, and sausage and potato salad and pickles. While
 he ate, he listened to the hopeful conversations around him.
 "... I hear they found a stone near Colesberg weigbin' twenty-one carats. Mark you, if there's one diamond
@@ -527,7 +535,8 @@ When they were seated at the table, Van der Merwe began, "Let us have a blessing
 Lord, for the bounty we receive at Thy hands. We thank Thee for forgiving us our sins and showing us the
 path of righteousness and delivering us from life's temptations. We thank Thee for a long and fruitful life, and
 
-for smiting dead all those who offend Thee. Amen." And without a breath between, "Pass me the meat," he
+ 
+for smiting dead all those who offend Thee. Amen." And without a breath between, "Pass me the meat," he
 said to his daughter.
 The dinner was frugal: a small roast pork, three boiled potatoes and a dish of turnip greens. The portions he
 served to Jamie were small. The two men talked little during the meal, and Margaret did not speak at all.
@@ -586,7 +595,8 @@ the money right here." He reached in his pouch and put the last of his savings o
 Van der Merwe hesitated. "All right," he said grudgingly. "Perhaps it was a misunderstanding, neh? This
 town is full of cheaters. I have to be careful who I do business with."
 
-"Yes, sir. Of course you do," Jamie agreed. In his excitement, he had misunderstood the deal. I'm lucky he's
+ 
+"Yes, sir. Of course you do," Jamie agreed. In his excitement, he had misunderstood the deal. I'm lucky he's
 giving me another chance, Jamie thought.
 Van der Merwe reached into his pocket and pulled out a small, wrinkled, hand-drawn map. "Here is where
 you'll find
@@ -645,7 +655,8 @@ And so, Jamie kept moving, one step at a time. One day, he saw four figures in t
 him. I'm delirious, Jamie thought. It's a mirage. But the figures came closer, and Jamie's heart began to thud alarmingly.
 Men! There is human life here! He wondered if he had forgotten how to speak. He tried out his voice on the
 
-afternoon air, and it sounded as if it belonged to someone long dead. The four men reached him,
+ 
+afternoon air, and it sounded as if it belonged to someone long dead. The four men reached him,
 prospectors returning to Klipdrift, tired and defeated.
 "Hello," Jamie said.
 They nodded. One of them said, "There ain't nothin' ahead, boy. We looked. You're wastin' your time. Go
@@ -705,7 +716,8 @@ decided to stay on. The miners had become the children she never had.
 She kept Jamie in bed for four more days, feeding him, changing his bandages and helping him regain his
 strength. By the fifth day, Jamie was ready to get up.
 
-"I want you to know how grateful I am to you, Mrs. Jardine. I can't pay you anything. Not yet. But you'll have
+ 
+"I want you to know how grateful I am to you, Mrs. Jardine. I can't pay you anything. Not yet. But you'll have
 a big diamond from me one day soon. That's a promise from Jamie McGregor."
 She smiled at the intensity of the handsome young boy. He was still twenty pounds too thin, and his gray
 eyes were filled with the horror he had been through, but there was a strength about him, a determination
@@ -766,7 +778,8 @@ seen a human being in two weeks, and an eddy of loneliness washed over him. What
 here? he wondered. Sitting in the middle of a blasted wilderness like a bloody fool, killing myself breaking
 rocks and digging up dirt? I was better off at the farm. Come Saturday, if I don't find a diamond, I'm going
 
-home. He looked up at the uncaring stars and yelled, "Do you hear me, damn you?" Oh, Jesus, he thought,
+ 
+home. He looked up at the uncaring stars and yelled, "Do you hear me, damn you?" Oh, Jesus, he thought,
 I'm losing my mind.
 Jamie sat there, idly sifting the sand through his fingers. They closed on a large stone, and he looked at it a
 moment, then
@@ -826,7 +839,8 @@ Klipdrift had not changed, but Jamie McGregor had. People stared as he rode into
 of Van der Merwe's general store. It was not just the expensive horse and carriage that drew the attention of
 the passers-by; it was the air of jubilation about the young man. They had seen it before in other prospectors
 
-who had struck it rich, and it always filled them with a renewed sense of hope for themselves. They stood
+ 
+who had struck it rich, and it always filled them with a renewed sense of hope for themselves. They stood
 back and watched as Jamie jumped out of the carriage.
 The same large black man was there. Jamie grinned at him "Hello! I'm back."
 Banda tied the reins to a hitching post without comment and went inside the store. Jamie followed him.
@@ -887,7 +901,8 @@ everybody here what you've done. I'm going to get my share of those diamonds."
 Van der Merwe started to turn away from the fury in the pale-gray eyes. "You'd better find a doctor, boy," he
 muttered. "I think the sun has addled your wits."
 
-In a second, Jamie was towering over Van der Merwe. He pulled the thin figure into the air and held him up
+ 
+In a second, Jamie was towering over Van der Merwe. He pulled the thin figure into the air and held him up
 to eye level. "I'm going to make you sorry you ever laid eyes on me." He dropped Van der Merwe to his feet,
 flung the money on the table and stormed out.
 When Jamie McGregor walked into the Sundowner Saloon, it was almost deserted, for most of the
@@ -947,7 +962,8 @@ where his body would not be found except by the desert scavengers, the hyenas an
 vultures. The desert was a vast charnel house. He had seen the bones of men's bodies that had been
 scavenged, and there had not been a scrap of meat left on the skeleton. Even as Jamie was thinking about
 
-it, he heard the rustle of wings above him and the shrill hiss of the vultures. He felt a flood of terror. He was
+ 
+it, he heard the rustle of wings above him and the shrill hiss of the vultures. He felt a flood of terror. He was
 blind. He could not see them. But he could smell them.
 He began to crawl.
 He made himself concentrate on the pain. His body was aflame with it, and each small movement brought
@@ -1006,7 +1022,8 @@ Banda hurried east toward the outskirts of town, the district allotted to the bl
 attractive shops gradually gave way to tin shacks and lean-tos and huts. He moved down a dirt street,
 looking over bis shoulder to make certain he was not followed. He reached a wooden shack, took one last
 
-look around, rapped twice on the door and entered. A thin black woman was seated in a chair in a corner of
+ 
+look around, rapped twice on the door and entered. A thin black woman was seated in a chair in a corner of
 the room sewing on a dress. Banda nodded to her and then continued on into the bedroom in back.
 He looked down at the figure lying on the cot.
 Six weeks earlier Jamie McGregor had regained consciousness and found himself on a cot in a strange
@@ -1067,7 +1084,8 @@ have no money. I need a job."
 "Here."
 Jamie took the money. "I'll pay it back."
 
-"You will pay my sister back," Banda told him.
+ 
+"You will pay my sister back," Banda told him.
 It was midnight when Banda led Jamie out of the shack. Jamie looked around. He was in the middle of a
 shantytown, a jungle of rusty, corrugated iron shacks and lean-tos, made from rotting planks and torn
 sacking. The ground, muddy from a recent rain, gave off a rank odor. Jamie wondered how people as proud
@@ -1128,7 +1146,8 @@ blacks had no rights except the few they were given by those in power. They were
 that were ghettos and were allowed to leave only to work for the white man.
 "How do you stand it?" Jamie asked Banda one day.
 
-"The hungry lion hides its claws. We will change all this someday. The white man accepts the black man
+ 
+"The hungry lion hides its claws. We will change all this someday. The white man accepts the black man
 because his muscles are needed, but he must also learn to accept his brain. The more he drives us into a
 corner, the more he fears us because he knows that one day there may be discrimination and humiliation in
 reverse. He cannot bear the thought of that. But we will survive because of isiko."
@@ -1188,7 +1207,8 @@ fence are guards with guns and dogs that'll tear a man to pieces.
 And they have a new kind of explosive called a land mine.
 They're buried all over the field. If you don't have a map of the
 
-land mines, you'll get blown to bits." "How large is the diamond field?"
+ 
+land mines, you'll get blown to bits." "How large is the diamond field?"
 "It runs for about thirty-five miles."
 Thirty-five miles of diamonds just lying on the sand. . . "My God!"
 "You aren't the first one to get excited about the diamond fields at the Namib, and you won't be the last. I've
@@ -1249,7 +1269,8 @@ rowboat. While I worked the field, there were half a dozen tries. The reefs just
 Everybody drowned."
 Jamie took a deep breath. "Did anyone ever try to get in by raft?"
 
-Banda was staring at him. "Raft?"
+ 
+Banda was staring at him. "Raft?"
 "Yes." Jamie's excitement was growing. 'Think about it. No one ever made it to the shore because the
 bottoms of their boats were torn out by the reefs. But a raft will glide right over those reefs and onto the
 shore. And it can get out the same way."
@@ -1310,7 +1331,8 @@ or two?" "As soon as I'm feeling stronger." "I'll come back and check on you Fri
 Mundy said.
 That night, Jamie and Banda went to work on the raft in the
 
-deserted warehouse. "Banda, have you ever built a raft?" "Well, to tell you the truth, Mr. McGregor, no."
+ 
+deserted warehouse. "Banda, have you ever built a raft?" "Well, to tell you the truth, Mr. McGregor, no."
 "Neither have I." The two men stared at each other. "How
 difficult can it be?"
 They stole four empty, fifty-gallon wooden oil barrels from behind the market and carried them to the
@@ -1371,7 +1393,8 @@ was working properly. He had a nagging feeling he was forgetting something. He s
 was bothering him and laughed aloud.
 Banda watched him, puzzled. "Something funny?"
 
-"Before, when I went looking for diamonds I had a ton of equipment. Now, all I'm carrying is a compass. It
+ 
+"Before, when I went looking for diamonds I had a ton of equipment. Now, all I'm carrying is a compass. It
 seems too easy."
 Banda said quietly, "I don't think that's going to be our problem, Mr. McGregor."
 "It's time you called me Jamie."
@@ -1430,7 +1453,8 @@ to get back to sea and out of sight. Will four hours be enough, Banda?"
 "A hundred men couldn't live long enough to spend what you can pick up on that beach in four hours." I just
 hope we live long enough to pick them up___
 
-They sailed steadily north for the rest of that day, carried by the wind and the tide. Toward evening a small
+ 
+They sailed steadily north for the rest of that day, carried by the wind and the tide. Toward evening a small
 island loomed ahead of them. It looked to be no more than two hundred yards in circumference. As they
 approached the island, the acrid smell of ammonia grew strong, bringing tears to their eyes. Jamie could
 understand why no one lived here. The stench was overpowering. But it would make a perfect place for them to hide until nightfall. Jamie adjusted the sail, and the
@@ -1490,7 +1514,8 @@ wind and the pounding waves and the hungry reef were playing with the raft like 
 and forward, spinning it wildly in the air. Jamie and Banda felt the thin wood begin to split beneath their feet.
 "Jump!" Jamie yelled.
 
-He dived over the side of the raft, and a giant wave picked him up and shot him toward the beach at the
+ 
+He dived over the side of the raft, and a giant wave picked him up and shot him toward the beach at the
 speed of a catapult. He was caught in the grip of an element that was powerful beyond belief. He had no
 control over what was happening. He was a part of the wave. It was over him and under him and inside him.
 His body was twisting and turning and his lungs were bursting. Lights began to explode in his head. Jamie
@@ -1550,7 +1575,8 @@ In the next three hours, the two men collected more than forty diamonds ranging 
 carats. The sky in the east was beginning to lighten. It was the time Jamie had planned to leave, to jump
 back on the raft, sail over the reefs and make their escape. It was useless to think about that now.
 
-"It will be dawn soon," Jamie said. "Let's see how many more diamonds we can find."
+ 
+"It will be dawn soon," Jamie said. "Let's see how many more diamonds we can find."
 "We're not going to live to spend any of this. You want to die very rich, don't you?"
 "I don't want to die at all."
 They resumed their search, mindlessly scooping up diamond after diamond, and it was as though a
@@ -1611,7 +1637,8 @@ a rifle. Jamie looked back at the shore. The mis was closing in fast.
 "You! You two! Come here," the guard yelled. He lifted his rifle.
 Jamie raised his hands. "I twisted my foot," he called out. "I can't walk."
 
-"Stay where you are," the guard ordered. "I'm comin' to get you." He lowered his rifle and started moving
+ 
+"Stay where you are," the guard ordered. "I'm comin' to get you." He lowered his rifle and started moving
 toward them. A
 quick look back showed that the mis had reached the edge of the shore, and was coming in swiftly.
 "Run!" Jamie whispered. He turned and raced, toward the beach, Banda running close behind him. "Stop!"
@@ -1671,7 +1698,8 @@ painfully slow. Both men were shirtless, and the sand scraped against their stom
 forward. Jamie was aware of how overwhelming the odds were against them. Even if by some chance they
 did succeed in crossing the desert without getting shot or blown up, they would be confronted by the barbed-
 
-wire fence and the armed guards at the watchtower at the entrance. And there was no telling how long the
+ 
+wire fence and the armed guards at the watchtower at the entrance. And there was no telling how long the
 mis would last. It could lift at any second, exposing them.
 They kept crawling, mindlessly sliding forward until they lost all track of time. The inches became feet, and
 the feet became yards, and the yards became miles. They had no idea how long they had been traveling.
@@ -1731,7 +1759,8 @@ He pushed through the line of workers and walked up to a guard. "Excuse me, sir,
 see about a job here?"
 Banda was staring at him, petrified.
 
-The guard turned to face Jamie. "What the hell are you doin' inside the fence?"
+ 
+The guard turned to face Jamie. "What the hell are you doin' inside the fence?"
 "We came in to look for work. I heard there was an opening for a guard, and my servant can dig. I thought—
 "
 The guard eyed the two ragged, disreputable-looking figures. "Get the hell back outside!"
@@ -1791,7 +1820,8 @@ departed from Klip-drift wealthy, but no one of such obvious wealth had ever arr
 something new in their experience.
 Fifteen minutes later, the bartender was back, accompanied by Salomon van der Merwe.
 
-Van der Merwe walked up to the bearded, white-haired stranger, held out his hand and smiled. "Mr. Travis,
+ 
+Van der Merwe walked up to the bearded, white-haired stranger, held out his hand and smiled. "Mr. Travis,
 I'm Salomon van der Merwe."
 "Ian Travis."
 Jamie waited for a flicker of recognition, a sign that Van der Merwe found something familiar about him.
@@ -1852,7 +1882,8 @@ Jamie looked at Banda for a long moment. "I promise."
 The two men clasped hands.
 "We'll meet again," Banda said. "Next time think of something really exciting for us to do."
 
-Banda walked away with three small diamonds carefully tucked in his pocket.
+ 
+Banda walked away with three small diamonds carefully tucked in his pocket.
 Jamie sent off a bank draft amounting to twenty thousand pounds to his parents, bought the finest carriage
 and team he could find and headed back to Klipdrift.
 The time had come for revenge.
@@ -1912,7 +1943,8 @@ Jamie just smiled.
 'That's right."
 "It's criminally expensive. But I suppose to a man of your means ..." He beamed at Jamie.
 
-Jamie said, "I'm told the countryside around here is interesting. Would it be an imposition to ask you to let
+ 
+Jamie said, "I'm told the countryside around here is interesting. Would it be an imposition to ask you to let
 your daughter show me around a bit tomorrow?"
 Margaret felt her heart stop for a second.
 Van der Merwe frowned. "I don't know. She—"
@@ -1972,7 +2004,8 @@ Jamie made no comment. He was keenly interested in what he was seeing. The railr
 enormous difference. A new combine called De Beers, named after the farmer in whose field the first
 diamond discovery was made, had bought out its chief rival, a colorful entrepreneur named Barney Barnato,
 
-and De Beers was busily consolidating the hundreds of small claims into one organization. Gold had been
+ 
+and De Beers was busily consolidating the hundreds of small claims into one organization. Gold had been
 discovered recently, not far from Kimberley, along with manganese and zinc. Jamie was
 convinced this was only the beginning, that South Africa was a treasure-house of minerals. There were
 incredible opportunities here for a man with foresight.
@@ -2033,7 +2066,8 @@ opportunities.
 Jamie was conscious of Margaret staring at him. "Is something wrong?" he asked.
 "Oh, no," she said, and quickly looked away.
 
-Jamie studied her now, and noticed the radiance about her. Margaret was aware of his closeness, his
+ 
+Jamie studied her now, and noticed the radiance about her. Margaret was aware of his closeness, his
 maleness. He sensed her feelings. She was a woman without a man.
 At noon Jamie drove off the main road down to a wooded area near a stream and stopped under a large
 baobab tree. He had had the hotel pack a picnic lunch. Margaret put down a tablecloth, unpacked the basket
@@ -2094,7 +2128,8 @@ Van der Merwe smiled. "Don't worry, I'll have the contracts drawn up right away.
 In Afrikaans, Jamie thought.
 "Now, there are a few other deals I find very interesting, Ian."
 
-Because it was important to keep his new partner happy, Van der Merwe no longer objected when Jamie
+ 
+Because it was important to keep his new partner happy, Van der Merwe no longer objected when Jamie
 asked that Margaret
 show him around the countryside. Margaret was more in love with Jamie every day. He was the last thing
 she thought of when she went to bed at night, and the first thing she thought of when she opened her eyes
@@ -2154,7 +2189,8 @@ interesting little partnership. How much does he pay you?"
 There was a silence. Smit was caught between two powerful forces. He did not know which way to jump.
 "How much?"
 
-"Two percent," he said reluctantly.
+ 
+"Two percent," he said reluctantly.
 "I'll give you five. From now on when a likely prospect comes in, you'll send him to me. 'I'll finance him. The
 difference is that he'll get his fair share and you'll get yours. Did you really think Van der Merwe was paying
 you two percent of what he made? You're a fool."
@@ -2215,7 +2251,8 @@ blamed for his daughter's depravity. Either way, it would be unbearable. He had 
 learned about it. He would send the whore out of his sight forever. He knelt and prayed: O, God! How could
 you do this to me, your loyal servant? Why have you forsaken me? Let her die, O Lord Let them both die___
 
-The Sundowner Saloon was crowded with noon trade when Jamie entered. He walked over to the bar and
+ 
+The Sundowner Saloon was crowded with noon trade when Jamie entered. He walked over to the bar and
 turned to face the room. "Your attention, please!" The conversation tapered off into silence. "Drinks on the
 house for everybody."
 "What is it?" Smit asked. "A new strike?"
@@ -2276,7 +2313,8 @@ Madam Agnes prided herself on her understanding of men, but Jamie McGregor was a
 visited often, spent money freely and was always pleasant to the women, but he seemed withdrawn, remote
 and untouchable. His eyes were what fascinated Agnes. They were pale, bottomless pools, cold. Unlike the
 
-other patrons of her house, he never spoke about himself or his past. Madam Agnes had heard hours earlier
+ 
+other patrons of her house, he never spoke about himself or his past. Madam Agnes had heard hours earlier
 that Jamie McGregor had deliberately gotten Salomon van der Merwe's daughter pregnant and then refused
 to marry her. The bastard! Madam Agnes thought. But she had to admit that he was an attractive bastard.
 She watched Jamie now as he walked down the red-carpeted stairs, politely said good night and left.
@@ -2336,7 +2374,8 @@ now.
 "Anything. I'm a good cook. I can wait on tables. I'll make the beds. I—I'll—" There was desperation in her
 voice. "Oh, please," she begged. "Anything!"
 
-Mrs. Owens looked at the trembling girl standing there in front of her, and it broke her heart. "I suppose I
+ 
+Mrs. Owens looked at the trembling girl standing there in front of her, and it broke her heart. "I suppose I
 could use an extra hand. How soon can you start?" She could see the relief that lighted Margaret's face.
 "Now."
 "I can pay you only—" She thought of a figure and added to
@@ -2395,7 +2434,8 @@ Cory looked at Jamie in surprise. "He came in this morning trying to borrow more
 The manager got to his feet. "Whatever you say, Mr. McGregor. I'll tell him that you—"
 'Tell him nothing. Just give him the money."
 
-Every morning Margaret arose at five o'clock to bake large loaves of wonderful-smelling bread and
+ 
+Every morning Margaret arose at five o'clock to bake large loaves of wonderful-smelling bread and
 sourdough biscuits, and when the boarders trooped into the dining room for breakfast, she served them
 porridge and ham and eggs, buckwheat cakes, sweet rolls and pots of steaming coffee and naartje. The
 majority of the guests at the boardinghouse were prospectors on their way to and from their claims. They
@@ -2453,7 +2493,8 @@ beautiful. A few were older and fleshy, with obviously dyed hair. But they all h
 cared. They were friendly and warm and kind and they wanted to make her happy.
 They hovered around Margaret self-consciously, afraid of
 
-saying or doing the wrong thing. No matter what the townspeople said, they knew this was a lady, and they
+ 
+saying or doing the wrong thing. No matter what the townspeople said, they knew this was a lady, and they
 were aware of the difference between Margaret and themselves. They were honored that she had come to
 them, and they were determined not to let anything spoil this party for her.
 "We fixed you a nice lunch, honey," Madam Agnes said. "I hope you're hungry."
@@ -2514,7 +2555,8 @@ Madam Agnes saw Margaret to the door. "I'll have a wagon deliver all the gifts t
 good luck to you."
 "Thank you. Oh, thank you."
 
-And she was gone.
+ 
+And she was gone.
 Madam Agnes stood there a moment watching Margaret walk clumsily down the street Then she turned
 inside and called loudly, "All right, ladies. Let's go to work."
 One hour later, Madam Agnes's was open for business as usual.
@@ -2575,7 +2617,8 @@ watch the proceedings, they were sent packing.
 "This is personal," Hannah told Margaret. "Between you and God and the devil who got you into this
 trouble."
 
-"Is it going to be a boy?" Margaret gasped.
+ 
+"Is it going to be a boy?" Margaret gasped.
 Hannah mopped Margaret's brow with a damp cloth. "I'll let you know as soon as I check out the plumbin'.
 Now press down. Real hard! Hard! Harder!"
 The contractions began to come closer together and the pain tore through Margaret's body. Oh, my God,
@@ -2635,7 +2678,8 @@ everyone else within a radius of a hundred miles, Mrs. Talley knew who they were
 "I'm sorry, but Mr. McGregor is not at home," the housekeeper said, and started to close the door.
 Margaret stopped her. "I didn't come to see Mr. McGregor. I brought him his son."
 
-"I'm afraid I don't know anything about that. You—"
+ 
+"I'm afraid I don't know anything about that. You—"
 "I'll be gone for one week. I'll return for him then." She held the baby out. "His name is Jamie."
 A horrified look came over Mrs. Taney's face. "You can't leave him here! Why, Mr. McGregor would—"
 "You have a choice," Margaret informed her. "You can either take him in the house or have me leave him
@@ -2695,7 +2739,8 @@ him, and the infant's fist was tightly wrapped around her finger.
 became aware of her employer standing in the doorway.
 "Oh," she said. "I—is there something I can get for you, Mr. McGregor?"
 
-"No." He walked over to the crib. "I was disturbed by the noise in here." And Jamie took his first look at his
+ 
+"No." He walked over to the crib. "I was disturbed by the noise in here." And Jamie took his first look at his
 son. The baby was bigger than he had expected, and well formed. He seemed to be smiling up at Jamie.
 "Oh, I'm sorry, Mr. McGregor. He's really such a good baby. And healthy. Just give him your finger and feel
 how strong he is."
@@ -2755,7 +2800,8 @@ first South Africa Railway had been opened in 1860, running from Dunbar to the P
 lines had been run from Cape Town to Wellington. Railroads were going to be the steel veins that allowed
 goods and people to flow freely through the heart of South Africa, and Jamie intended to be a part of them.
 
-That was only the beginning of his plan. After that, Jamie thought, ships. My own ships to carry the minerals
+ 
+That was only the beginning of his plan. After that, Jamie thought, ships. My own ships to carry the minerals
 across the ocean.
 He arrived home after midnight, undressed and got into bed. He had had a decorator from London design a
 large, masculine bedroom with a huge bed that had been carved in Cape Town. There was an old Spanish
@@ -2814,7 +2860,8 @@ this moment, without ever knowing it. This was his flesh and blood he was holdin
 Jamie McGregor, Jr. What was the point of building an empire, a dynasty, of having diamonds and gold and
 railroads if you had no one to pass them on to? What a bloody fool I've been! Jamie thought. It had never
 
-occurred to him until now what was missing. He had been too blinded by bis hatred. Looking down into the
+ 
+occurred to him until now what was missing. He had been too blinded by bis hatred. Looking down into the
 tiny face, a hardness somewhere deep in the core of him vanished.
 "Move Jamie's crib into my bedroom, Mrs. Talley."
 Three days later when Margaret appeared at the front door of Jamie's house, Mrs. Talley said, "Mr.
@@ -2875,7 +2922,8 @@ handle it himself.
 Late that afternoon, Jamie McGregor went to Mrs. Owens's boardinghouse. "I want to see Miss van der
 Merwe," Jamie said.
 
-'I'm afraid that's not possible," Mrs. Owens informed him. "She's on her way to America."
+ 
+'I'm afraid that's not possible," Mrs. Owens informed him. "She's on her way to America."
 Jamie felt as though he had been hit in the stomach. "She can't be! When did she leave?"
 "She and her son took the noon coach to Worcester."
 The train sitting at the station in Worcester was filled to capacity, the seats and aisles crowded with noisy
@@ -2936,7 +2984,8 @@ The driver turned the carriage toward the waterfront, and Jamie knew instantly w
 Fifteen minutes later the carriage stopped in front of the deserted warehouse where Jamie and Banda had
 once planned their adventure into the Namib. What reckless young fools we were, Jamie thought. He
 
-stepped out of the carriage and approached the warehouse. Banda was waiting for him. He looked exactly
+ 
+stepped out of the carriage and approached the warehouse. Banda was waiting for him. He looked exactly
 the same, except that now he was neatly dressed in a suit and shirt and tie.
 They stood there, silently grinning at each other, then they embraced.
 "You look prosperous," Jamie smiled.
@@ -2996,7 +3045,8 @@ The smile faded from Zimmerman's face. "What kind of complaints?"
 Zimmerman leaped to his feet, moving with surprising agility. His face was flushed with anger. "These ain't
 men. These are kaffirs. You people sit on your asses at headquarters and—"
 
-"Listen to me," David said. "There's no—"
+ 
+"Listen to me," David said. "There's no—"
 "You listen to me! I produce more fuckin' diamonds than anybody else in the company, and you know why?
 Because I put the fear of God into these bastards."
 "At our other mines," David said, "we're paying fifty-nine shillings a month and keep. You're paying your
@@ -3057,7 +3107,8 @@ mines at Kimberley.
 "What can I do for you?" Jamie asked.
 "I've been sent to make you an offer, Mr. McGregor. De Beers would like to buy you out. Name your price."
 
-It was a heady moment. Jamie grinned and said, "Name yours."
+ 
+It was a heady moment. Jamie grinned and said, "Name yours."
 David Blackwell was becoming more and more important to Jamie. In the young American Jamie McGregor
 saw himself as he once had been. The boy was honest, intelligent and loyal. Jamie made David his
 secretary, then his personal assistant and, finally, when the boy was twenty-one, his general manager.
@@ -3118,7 +3169,8 @@ with the news of all he had seen. "Papa owns the whole city!"
 the boy exclaimed. "You'd love it, Mama. You'll see it next
 time."
 
-Margaret hugged her son to her. "Yes, darling."
+ 
+Margaret hugged her son to her. "Yes, darling."
 Jamie spent many nights away from home, and Margaret
 knew he was at Madam Agnes's. She had heard he had bought a house for one of the women so that he
 could visit her privately. She had no way of knowing whether it was true. Margaret only knew that whoever
@@ -3179,7 +3231,8 @@ She was wearing a sheer nightgown, and Jamie could see her ripe breasts strainin
 she has a lovely body! He began to take off his clothes.
 Margaret leaped out of bed, her eyes very wide. "What are you doing?"
 
-Jamie kicked the door shut behind him and walked over to her. In a moment, he had thrown her onto the
+ 
+Jamie kicked the door shut behind him and walked over to her. In a moment, he had thrown her onto the
 bed and he was next to her, naked. "God, I want you, Maggie."
 In his drunken confusion, he was not sure which Maggie he wanted. How she fought him! Yes, this was his
 little wildcat. He laughed as he finally managed to subdue her flailing arms and legs, and she was suddenly
@@ -3240,7 +3293,8 @@ The labor pains began at four o'clock in the morning. Mrs. Talley sent for Hanna
 delivered at noon. It was a healthy baby girl, with her mother's mouth and her father's chin, and black hair
 curling around her little red face. Margaret named her Kate. It's a good, strong name, Margaret thought. And
 
-she's going to need her strength. We all are. I've got to take the children away from here. I don't know how
+ 
+she's going to need her strength. We all are. I've got to take the children away from here. I don't know how
 yet, but I must find a way.
 David Blackwell burst into Jamie McGregor's office without knocking, and Jamie looked up in surprise.
 "What the hell—?"
@@ -3301,7 +3355,8 @@ Half the population of Klipdrift turned out to join in the search. They covered 
 gulleys, ravines and klops. There was no trace of the boy.
 Jamie was like a man possessed. He's wandered away somewhere, that's all He'll be back.
 
-He went into Margaret's bedroom. She was lying in bed, nursing the baby.
+ 
+He went into Margaret's bedroom. She was lying in bed, nursing the baby.
 "Is there any news?" she demanded.
 "Not yet, but I'll find him." He looked at his baby daughter for an instant, then turned and walked out without
 another word.
@@ -3362,7 +3417,8 @@ and Margaret was not even aware of it. In the middle of the night Margaret was l
 shut when she heard a loud crash from her
 son's room. She opened her eyes and listened. There was an other sound. Little Jamie was back!
 
-Margaret hurriedly got out of bed and ran down the corridoi toward the closed door of her son's room.
+ 
+Margaret hurriedly got out of bed and ran down the corridoi toward the closed door of her son's room.
 Through the door, she could hear strange animal sounds. Her heart pounding wildly, she pushed the door
 open.
 Her husband lay on the floor, his face and body contorted. One eye was closed and the other stared up at
@@ -3421,7 +3477,8 @@ with a special menu showing a British soldier holding up the head of a boar on a
 SEND-OFF SUPPER TO the CAPE SQUADRON,
 November 27, 1899
 
-MENU
+ 
+MENU
 Oysters—Blue Points
 Compo Soup
 Toady in the Hole
@@ -3482,7 +3539,8 @@ For the world, the year 1900 was a clean slate on which history was going to be 
 promised peace and limitless hope for everyone. A new century had begun, and it brought with it a series of
 astonishing inventions that reshaped life around the globe. Steam and electric automobiles were replaced by
 
-the combustion engine. There were submarines and airplanes. The world population exploded to a billion
+ 
+the combustion engine. There were submarines and airplanes. The world population exploded to a billion
 and a half people. It was a time to grow and expand, and during the next six years, Margaret and David took
 full advantage of every opportunity.
 During those years, Kate grew up with almost no supervision. Her mother was too busy running the
@@ -3542,7 +3600,8 @@ The dogs went crazy. They raced to a closed door and began barking wildly.
 "Oh, my God!" Kate cried. "He's in there!"
 The superintendent pulled out his gun. "Open it," he ordered.
 
-The two policemen moved to the closet door with drawn guns and pulled the door open. The closet was
+ 
+The two policemen moved to the closet door with drawn guns and pulled the door open. The closet was
 empty. One of the dogs raced to another door and pawed excitedly at it.
 "Where does that door lead?" Superintendent Cominsky asked.
 'To a washroom."
@@ -3602,7 +3661,8 @@ I'll have the back door of the car open. Get in and he on the floor. There will 
 with."
 "Kate, they're going to search every automobile leaving the city. If—"
 
-"We're not going by automobile. There's a train leaving for Cape Town at eight a.m. I ordered my private car
+ 
+"We're not going by automobile. There's a train leaving for Cape Town at eight a.m. I ordered my private car
 connected to it."
 "You're getting me out of here in your private railroad car?" "That's right."
 Banda managed a grin. "You McGregors really like excitement."
@@ -3662,7 +3722,8 @@ He smiled. "You know the first white man I ever heard call me friend? Your daddy
 think you're going to sneak me off the train at Cape Town?"
 "We're not going to Cape Town."
 
-"But you said—"
+ 
+"But you said—"
 'I'm a woman. I have a right to change my mind."
 In the middle of the night when the train stopped at the station at Worcester, Kate arranged to have her
 private railroad car disconnected and shunted to a siding. When Kate woke up in the morning, she went over
@@ -3723,7 +3784,8 @@ Her manners that afternoon were impeccable.
 break that spirit."
 "I'll tell you a secret," Margaret said grimly, "half the time I'd like to break her neck."
 
-When Kate was ten, she said to David, "I want to meet Banda."
+ 
+When Kate was ten, she said to David, "I want to meet Banda."
 David looked at her in surprise. "I'm afraid that's not possible, Kate. Banda's farm is a long way from here."
 "Are you going to take me there, David, or do you want me to go by myself?"
 The following week David took Kate to Banda's farm. It was a good-sized piece of land, two morgens, and
@@ -3782,7 +3844,8 @@ When Margaret told David her idea, he grinned. "She's not going to like that."
 "I can't help it. Now the headmistress is complaining about the language Kate uses. She gets it from those
 prospectors she's always following around. My daughter's starting to sound like them, look like them and
 
-smell like them. Frankly, David, I don't understand her at all. I don't know why she behaves as she does.
+ 
+smell like them. Frankly, David, I don't understand her at all. I don't know why she behaves as she does.
 She's pretty, she's bright, she's—"
 "Maybe she's too bright."
 "Well, too bright or not, she's going away to school."
@@ -3843,7 +3906,8 @@ In the dining room, on their last night at sea, David asked, "Why are you so dif
 Kate put her hand over his. "Do I drive you crazy?"
 David's face reddened. "Stop that. I don't understand you."
 
-"Yes, you do."
+ 
+"Yes, you do."
 "Why can't you be like other girls your age?"
 "I'd rather die first. I don't want to be like anybody else."
 "God knows you're not!"
@@ -3903,7 +3967,8 @@ I'll just kill her. They'll arrest me and hang me, and when I'm on the gallows, 
 But it will be too late. He'll beg me to forgive him. "Yes, David, my darling, I forgive you. You were too foolish
 to know when you held a great love in the palm of your hand. You let it fly away like a little bird. Now that
 
-little bird is about to be hanged. Good-bye, David." But at the last minute she would be reprieved and David
+ 
+little bird is about to be hanged. Good-bye, David." But at the last minute she would be reprieved and David
 would take her in his arms and
 carry her off to some exotic country where the food was better than the bloody slop they served at bloody
 Cheltenham.
@@ -3964,7 +4029,8 @@ That evening, at dinner, Kate asked casually, "Is David in town?"
 "Is he coming to dinner Friday night?"
 "Probably." She studied Kate and said, "You like David, don't you?"
 
-She shrugged. "He's all right, I suppose."
+ 
+She shrugged. "He's all right, I suppose."
 "I see," Margaret said. She smiled to herself as she remembered Kate's vow to marry David.
 "I don't dislike him, Mother. I mean, I like him as a human being. I just can't stand him as a man."
 When David arrived for dinner Friday night, Kate flew to the door to greet him. She hugged him and
@@ -4024,7 +4090,8 @@ what a wonderful, bright future it will bet
 When Kate was home during her vacation, all the eligible young men of Klipdrift flocked around besieging
 her for dates, but Kate was not interested in any of them. David was in America, and she impatiently awaited
 
-his return. When he came to the house, Kate greeted him at the door. She wore a white dress circled in by a
+ 
+his return. When he came to the house, Kate greeted him at the door. She wore a white dress circled in by a
 black velvet belt that accentuated her lovely
 bosom. When David embraced her, he was astonished by the warmth of her response. He drew back and
 looked at her. There was something different about her, something knowing. There was an expression in her
@@ -4085,7 +4152,8 @@ Sometimes at night when I can't sleep, I think about my father and Banda crawlin
 I can hear the voices of the guards: Kruger... Brent..." She looked up at David. "No, I'll never sell my father's
 company. Not as long as you'll stay on and run it."
 
-David said quietly, 'I'll stay as long as you need me."
+ 
+David said quietly, 'I'll stay as long as you need me."
 'I've decided to enroll in a business school."
 "A business school?" There was surprise in his voice.
 "This is 1910," Kate reminded him. "They have business schools in Johannesburg where women are
@@ -4146,7 +4214,8 @@ Kate enjoyed her new life tremendously. Every decision involved a gamble of mill
 business was a matching of wits, the courage to gamble and the instinct to know when to quit and when to
 press ahead.
 
-"Business is a game," David told Kate, "played for fantastic stakes, and you're in competition with experts. If
+ 
+"Business is a game," David told Kate, "played for fantastic stakes, and you're in competition with experts. If
 you want to win, you have to learn to be a master of the game."
 And that was what Kate was determined to do. Learn.
 Kate lived alone in the big house, except for the servants. She and David continued their ritual Friday-night
@@ -4206,7 +4275,8 @@ Kate stayed there a long time, enjoying the quiet and peace. Finally, she return
 drove on.
 "What is it like here in the winter?" Kate asked.
 
-"Cold. The bay used to freeze solid, and they'd come from the mainland by sleigh. Now a' course, we got the
+ 
+"Cold. The bay used to freeze solid, and they'd come from the mainland by sleigh. Now a' course, we got the
 ferry."
 They rounded a curve, and there, next to the water below, was a beautiful white-shingled, two-story house
 surrounded by delphinium, wild roses and poppies. The shutters on the eight front windows were painted
@@ -4267,7 +4337,8 @@ Josephine, was the most beau tiful woman David had ever seen. She was in her ear
 with a stunning figure, soft blond hair and clear blue eyes. The breath went out of David at the sight of her.
 "I—I'm sorry I'm late," he said. "Some last-minute business."
 
-Josephine watched his reaction to her with amusement. "Sometimes that's the most exciting kind," she said
+ 
+Josephine watched his reaction to her with amusement. "Sometimes that's the most exciting kind," she said
 innocently. "My father tells me you're a very important man, Mr. Black-well."
 "Not really—and it's David."
 She nodded. "That's a good name. It suggests great strength."
@@ -4327,7 +4398,8 @@ screaming shrew and we'd end up hating each other. I'd rather we said good-bye t
 She looked up into his face, and David felt her body melt into his. "David, is there any chance that you could
 live in San Francisco?"
 
-It was an impossible idea. "What would I do there?"
+ 
+It was an impossible idea. "What would I do there?"
 "Let's have breakfast in the morning. I want you to talk to Father."
 Tim O'Neil said, "Josephine has told me about your conversation last night. Looks like you two have a
 problem. But I might have a solution, if you're interested."
@@ -4386,7 +4458,8 @@ him. He held an important position in one of the most powerful companies in the 
 Jamie and Margaret McGregor had been very good to him. And then there was Kate. He had cared for her
 since she was a baby. He had watched her grow up from a stubborn, dirty-faced tomboy to a lovely young
 
-woman. Her life was a photo album in his mind. He turned the pages and there was Kate at four, eight, ten,
+ 
+woman. Her life was a photo album in his mind. He turned the pages and there was Kate at four, eight, ten,
 fourteen, twenty-one—vulnerable, unpredictable ...
 By the time the train arrived at Klipdrift, David had made up
 his mind. He was not going to leave Kruger-Brent, Ltd.
@@ -4447,7 +4520,8 @@ railway car, David," Kate offered.
 The morning Josephine left, David felt as though a piece of his life had been taken away. He could not wait
 to join her in San Francisco.
 
-The next few weeks were taken up with a search for a management team to back up Brad Rogers. A list of
+ 
+The next few weeks were taken up with a search for a management team to back up Brad Rogers. A list of
 possible candidates was carefully drawn up, and Kate and David and Brad spent hours discussing each
 one.
 "... Taylor is a good technician, but he's weak on management."
@@ -4507,7 +4581,8 @@ you to do— kiss me."
 against his and put her arms around him. She felt him resist and start to draw back. And then slowly his
 arms circled her body, and he kissed her.
 
-"Kate ..."
+ 
+"Kate ..."
 She whispered against bis lips. "I thought you'd never ask..."
 They were married six weeks later. It was the biggest wedding Klipdrift had ever seen or would see again. It
 was held in the town's largest church and afterward there was a reception in the town hall and everyone was
@@ -4568,7 +4643,8 @@ And the conversation moved on to cricket.
 Later in bed, Kate said, "Do you think there's going to be a war, David?"
 "Over some minor archduke being assassinated? No."
 
-It proved to be a bad guess. Austria-Hungary, suspecting that to neighbor, Serbia, had instigated the plot to
+ 
+It proved to be a bad guess. Austria-Hungary, suspecting that to neighbor, Serbia, had instigated the plot to
 assassinate Ferdinand, declared war on Serbia, and by October, most of the world's major powers were at
 war. It was a new kind of warfare. For the first time, mechanized vehicles were used—airplanes, airships
 and submarines.
@@ -4629,7 +4705,8 @@ miserable. Rain filled the dugouts with water and mud, and rats swarmed through 
 trenches. Kate was grateful that David was fighting his war in
 the air. On April 6, 1917, President Wilson declared war, and David's
 
-prediction came true. America began to mobilize.
+ 
+prediction came true. America began to mobilize.
 The first American Expeditionary Force under General John J. Pershing began landing in France on June
 26, 1917. New place names became a part of everyone's vocabulary: Saint-Mihiel... Chateau-Thierry ... the
 Meuse-Argonne ... Belleau Wood ... Verdun ... The Allies had become an irresistible force, and on
@@ -4690,7 +4767,8 @@ company headquarters on Wall Street, and the architects went to work. Kate chose
 design a sixteenth-century French Renaissance mansion on Fifth Avenue. 'This city is so damned noisy,"
 David complained. And it was true. The chatter of riveters filled the air in every part of the city as
 
-skyscrapers began to soar into the heavens. New York had become the mecca for trade from all over the
+ 
+skyscrapers began to soar into the heavens. New York had become the mecca for trade from all over the
 world, the headquarters for shipping, insurance, communica-tions and transportation. It was a city bursting
 with a unique vitality. Kate loved it, but she sensed David's unhappiness.
 "David, this is the future. This place is growing, and we'll grow with it." "My God, Kate, how much more do
@@ -4749,7 +4827,8 @@ face and said, "We lost the Shannon deal!"
 She felt a sharp pang. "Where? Was it bad? Was anyone killed?"
 Brad took a deep breath. "Half a dozen. Kate— David was with them."
 
-The words seemed to fill the room and reverberate against the paneled walls, growing louder and louder,
+ 
+The words seemed to fill the room and reverberate against the paneled walls, growing louder and louder,
 until it was a scream-ing in her ears, a Niagara of sound that was drowning her, and she felt herself being
 sucked into its center, deeper and deeper, until she could no longer breathe.
 And everything became dark and silent.
@@ -4808,7 +4887,8 @@ She had to get in touch with him. She summoned one of her veteran black foremen,
 "Try. I want to meet with him."
 "I'll see what I can do."
 
-The following morning the foreman said, "If you are free this evening, a car will be waiting to take you out to
+ 
+The following morning the foreman said, "If you are free this evening, a car will be waiting to take you out to
 the country."
 Kate was driven to a small village seventy miles north of Johannesburg. The driver stopped in front of a
 small frame house, and Kate went inside. Banda was waiting for her. He looked exactly the same as when
@@ -4869,7 +4949,8 @@ Kate just stared at him.
 "Let him be on his own a bit. Just until he finishes high school. They have some excellent schools in
 Switzerland."
 
-Switzerland! The idea of Tony being so far away from her was appalling. He was too young, he was not
+ 
+Switzerland! The idea of Tony being so far away from her was appalling. He was too young, he was not
 ready yet, he— Dr. Harley was watching her. "I'll think about it," Kate told him.
 That afternoon she canceled a board meeting and went home early. Tony was in his room, doing homework.
 Tony said, "I g-g-got all A's t-today, M-mother."
@@ -4929,7 +5010,8 @@ both make a sacrifice." And he was forced to live with that.
 As the company kept expanding, Kate set up charitable foundations that contributed to colleges, churches
 and schools. She kept adding to her art collection. She acquired the great Renaissance and post-
 
-Renaissance artists Raphael and Titian, Tintoretto and El Greco; and the baroque painters Rubens,
+ 
+Renaissance artists Raphael and Titian, Tintoretto and El Greco; and the baroque painters Rubens,
 Caravaggio and Vandyck.
 The Blackwell collection was reputed to be the most valuable private collection in the world. Reputed,
 because no one outside of invited guests was permitted to see it. Kate would not allow it to be
@@ -4990,7 +5072,8 @@ at the Dark Harbor Shop. In summer they went sailing and hiking and visaed art g
 was skiing and skating and Heigh riding. They would sit in front of a fire in the large fire-place in the library,
 and Kate would tell her son all the old fam-ily stories about his grandfather and Banda, and about the baby
 
-shower Madam Agnes and her girls gave for Tony's grand-mother. It was a colorful family, a family to be
+ 
+shower Madam Agnes and her girls gave for Tony's grand-mother. It was a colorful family, a family to be
 proud of, to
 cherish.
 "Kruger-Brent, Limited, will be yours one day, Tony. You'll run it and—"
@@ -5050,7 +5133,8 @@ And Kate knew she had lost.
 He has a right to live his own life, Kate thought. But how can I let him make such a terrible mistake?
 In September, the decision was taken out of both their hands Europe went to war.
 
-"I want you to enroll in the Wharton School of Finance and Commerce," Kate informed Tony. "In two years if
+ 
+"I want you to enroll in the Wharton School of Finance and Commerce," Kate informed Tony. "In two years if
 you still want to be an artist, you'll have my blessing." Kate was certain that by then Tony would change his
 mind. It was inconceivable that her son would choose to spend his life slapping daubs of color on bits of
 canvas when he could head the most exciting conglomerate in the world. He was, after all, her son.
@@ -5109,7 +5193,8 @@ expenses in London and transfer the deposits to a Swiss bank."
 "That can be arranged."
 "My uncle would be very pleased."
 
-Some eight weeks later, a small but steady stream of Jewish refugees began to arrive in Allied countries to
+ 
+Some eight weeks later, a small but steady stream of Jewish refugees began to arrive in Allied countries to
 go to work in Kruger-Brent factories.
 Tony quit school at the end of two years. He went up to Kate's office to tell her the news. "I t-tried, M-mother.
 I really d-did. But I've m-made up m-my mind. I want to s-study p-painting. When the w-war is over, I'm ggoing to P-paris."
@@ -5168,7 +5253,8 @@ tourist. He could have stayed at Kate's penthouse on Avenue du Marechal Foch, wh
 damaged during the occupation. Instead, he rented an unfurnished flat in an old converted house behind
 Grand Montparnasse. The apartment consisted of a living room with a fireplace, a small bedroom and a tiny
 
-kitchen that had no refrigerator. Between the bedroom and the kitchen crouched a bathroom with a clawfooted tub and small stained bidet and a temperamental toilet with a broken seat.
+ 
+kitchen that had no refrigerator. Between the bedroom and the kitchen crouched a bathroom with a clawfooted tub and small stained bidet and a temperamental toilet with a broken seat.
 When the landlady started to make apologies, Tony stopped her. "It's perfect."
 He spent all day Saturday at the flea market. Monday and Tuesday he toured the secondhand shops along
 the Left Bank,
@@ -5228,7 +5314,8 @@ Tony, it was home. He would sit for hours at the Boule Blanche or La Coupole wit
 discussing their arcane world.
 "I understand the art director of the Guggenheim Museum is in Paris, buying up everything in sight."
 
-"Tell him to wait for me!"
+ 
+"Tell him to wait for me!"
 They all read the same magazines and shared them because they were expensive: Studio and Cahiers
 d'Art, Formes et Cou-leurs and Gazette des Beaux-Arts.
 Tony had learned French at Le Rosey, and he found it easy to make friends with the other students in his
@@ -5288,7 +5375,8 @@ Late one afternoon when all the other students had left and Tony was finishing a
 came up behind him unexpectedly. "My nose is too long."
 Tony was flustered. "Oh. I'm sorry, I'll change it."
 
-"No, no. The nose in the painting is fine. It is my nose that is too long."
+ 
+"No, no. The nose in the painting is fine. It is my nose that is too long."
 Tony smiled. 'I'm afraid I can't do much about that."
 "A Frenchman would have said, "Your nose is perfect, chirie.'"
 "I like your nose, and I'm not French."
@@ -5348,7 +5436,8 @@ and Andre Breton, in charge of the prestigious Galerie Maeght.
 Dominique was a source of constant encouragement. "You are going to be better than all of them, cheri.
 Believe me. I know."
 
-If Tony was in the mood to paint at night, Dominique would cheerfully pose for him, even though she had
+ 
+If Tony was in the mood to paint at night, Dominique would cheerfully pose for him, even though she had
 been working all day. God, I'm lucky, Tony thought. This was the first time he had been sure someone loved
 him for what he was, not who he was, and it was a feeling he cherished. Tony was afraid to tell Dominique
 he was the heir to one of the world's largest fortunes, afraid she would change, afraid they would lose what
@@ -5405,7 +5494,8 @@ Tony looked over at Dominique, and she was beaming at him. "I—I don't know what 
 Tony and Dominique stayed up half the night discussing it.
 "I don't feel I'm ready. The critics will crucify me."
 
-"You're wrong, cheri. This is perfect for you. It is a small gallery. Only the local people will come and judge
+ 
+"You're wrong, cheri. This is perfect for you. It is a small gallery. Only the local people will come and judge
 you. There is no way you can get hurt. Monsieur Goerg would never offer to give you an exhibition if he did
 not believe in you. He agrees with me that you are going to be a very important artist."
 "All right," Tony finally said. "Who knows? I might even sell a painting."
@@ -5464,7 +5554,8 @@ Tony turned to Dominique. "That's a m-mother for you." Then to Kate, "Andre d'Us
 galleries."
 "Oh, Tony, he must come. He can make you famous overnight."
 
-"Or b-break me."
+ 
+"Or b-break me."
 "Don't you believe in yourself?" Kate was watching her son.
 "Of course he does," Dominique said. "But we couldn't dare hope that Monsieur d'Usseau would come."
 "I could probably find some friends who know him."
@@ -5524,7 +5615,8 @@ paintings. They see one they like, they keep wandering back to it. Pretty soon t
 they nibble, voila! The hook is set!"
 "Jesus! I feel like I'm on a fishing cruise," Tony told Dominique.
 
-Monsieur Goerg bustled up to Tony. "We've sold one!" he exclaimed. "The Normandy landscape. Five
+ 
+Monsieur Goerg bustled up to Tony. "We've sold one!" he exclaimed. "The Normandy landscape. Five
 hundred francs."
 It was a moment that Tony would remember as long as he lived. Someone had bought a painting of his!
 Someone had thought enough of his work to pay money for it, to hang it in his home or office, to look at it,
@@ -5583,7 +5675,8 @@ painter."
 "I can't believe it," Dominique whispered. "I can't believe he couldn't see it. Oh, that bastard!" Dominique
 began to cry helplessly.
 
-Tony felt as though his chest were filled with lead. He had difficulty breathing. "He saw it," he said. "And he
+ 
+Tony felt as though his chest were filled with lead. He had difficulty breathing. "He saw it," he said. "And he
 does know, Dominique. He does know." His voice was filled with pain. That's what hurts so much. Christ!
 What a fool I was!" He started to move away.
 "Where are you going, Tony?"
@@ -5643,7 +5736,8 @@ himself of memories too searing to bear. He wrote to Dominique, but his letters
 were returned unopened. He telephoned Maitre Cantal, but Dominique no longer modeled at the school.
 She had disappeared.
 
-Tony handled his job expertly and methodically, with neither passion nor love, and if he felt a deep
+ 
+Tony handled his job expertly and methodically, with neither passion nor love, and if he felt a deep
 emptiness inside himself, no one suspected it. Not even Kate. She received weekly reports on Tony, and
 she was pleased with them.
 "He has a natural aptitude for business," she told Brad Rogers.
@@ -5703,7 +5797,8 @@ Brad Rogers's office.
 "What?"
 "It's under the umbrella of one of our subsidiaries."
 
-"When did we acquire it?"
+ 
+"When did we acquire it?"
 "A couple of years ago. Just about the time you joined the company. What's your interest in it?"
 "I'm trying to locate one of their models. She's an old friend."
 "No problem. I'll call and—"
@@ -5764,7 +5859,8 @@ and he was sick with shame. All along, he had been his mother's puppet, controll
 mother had never given a damn about him. He was not her son. He was her crown prince, her heir apparent.
 All that mattered to her was the company. He took one
 
-last look at Dominique, then turned and stumbled out. She looked after him, her eyes blinded by tears, and
+ 
+last look at Dominique, then turned and stumbled out. She looked after him, her eyes blinded by tears, and
 she thought, / didn't lie about loving you, Tony. I didn't lie about that.
 Kate was in the library when Tony walked in, very drunk.
 "I t-talked to D-dominique," he said. "You t-two m-must have had a w-wonderful time 1-laughing at me
@@ -5823,7 +5919,8 @@ to move him for security reasons."
 "Where is he?"
 'I'm not at liberty to say."
 
-When Kate woke up the following morning, she saw the headline in the newspaper carried in with her
+ 
+When Kate woke up the following morning, she saw the headline in the newspaper carried in with her
 breakfast tray. It read: rebel leader killed while trying to escape prison. She was at the prison an hour later,
 in the superintendent's office.
 "He was shot during an attempted prison break, Mrs. Black-well. That's all there is to it."
@@ -5884,7 +5981,8 @@ executives in both companies.
 Neither Wyatt nor Hoffman has the slightest interest in a sale, merger or joint venture. As you can see from
 their Financials, they'd be crazy even to think about it."
 
-That feeling of challenge was there in Kate again, tugging at her.
+ 
+That feeling of challenge was there in Kate again, tugging at her.
 Ten days later Kate was invited by the President of the United States to a Washington conference of leading
 international industrialists to discuss assistance to underdeveloped countries. Kate made a telephone call,
 and shortly afterward Charlie Wyatt and Count Frederick Hoffman received invitations to attend the
@@ -5941,7 +6039,8 @@ Tony loathed parties. He hated the endless, boring conversations, the boastful m
 women. But this was business. "All right."
 All the pieces were in place.
 
-The Wyatts were flown to Maine in a company Cessna, and from the ferry were driven to Cedar Hill House
+ 
+The Wyatts were flown to Maine in a company Cessna, and from the ferry were driven to Cedar Hill House
 in a limousine. Kate was at the door to greet them. Brad Rogers had been right about Charlie Wyatt's
 daughter, Lucy. She was strikingly beautiful. She was tall, with black hair and gold-flecked brown eyes, set
 in almost perfect features. Her sleek Galanos dress outlined a firm, stunning figure. She had, Brad informed
@@ -6001,7 +6100,8 @@ Kate turned to Marianne Hoffman. "I haven't seen your father this morning."
 "He's out exploring the island. He's an early riser."
 "I understand you like to ride. We have a fine stable here."
 
-"Thank you, Mrs. Blackwell. I'll just wander around, if you don't mind."
+ 
+"Thank you, Mrs. Blackwell. I'll just wander around, if you don't mind."
 "Of course not." Kate turned back to Tony. "Are you sure you won't change your mind about taking Miss
 Wyatt for a sail?" There was steel in her voice.
 "I'm s-sure."
@@ -6061,7 +6161,8 @@ Wyatt grinned. "Did it? It's good camouflage."
 was you who got me invited to that White House conference."
 She shrugged. "I merely mentioned your name. They were delighted to have you."
 
-"That was mighty kind of you, Kate. Now, as long as you and I are alone, why don't you tell me exactly
+ 
+"That was mighty kind of you, Kate. Now, as long as you and I are alone, why don't you tell me exactly
 what's on your mind?"
 Tony was at work in his private study, a small room off the main downstairs hallway. He was seated in a
 deep armchair when he heard the door open and someone come in. He turned to look. It was Marianne
@@ -6122,7 +6223,8 @@ wanted was money and told you how much up front. You paid
 for what you got, and you got what you paid for. No complications, no tears, no deceit. Lucy Wyatt was in for
 a surprise.
 
-Early Sunday morning, Tony went down to the pool for a swim. Marianne Hoffman was already in the water,
+ 
+Early Sunday morning, Tony went down to the pool for a swim. Marianne Hoffman was already in the water,
 wearing a white maillot. She had a lovely figure, tall and slender and graceful. Tony stood there watching her
 cutting cleanly through the water, her arms flashing up and down in a regular, graceful rhythm. She saw
 Tony and swam over to him.
@@ -6182,7 +6284,8 @@ his mother was solely a business partner: brilliant and powerful, devious and da
 There was a Rolls-Royce to pick up Tony at the William P. Hobby Airport in Houston, and he was driven to
 the ranch by a chauffeur dressed in Levi's and a colorful sport shirt.
 
-"Most folks like to fly direct to the ranch," the driver told Tony. "Mr. Wyatt's got a big landin' strip there. From
+ 
+"Most folks like to fly direct to the ranch," the driver told Tony. "Mr. Wyatt's got a big landin' strip there. From
 here, it's 'bout an hour's drive to the gate, then another half hour before we git to the main house."
 Tony thought he was exaggerating, but he was wrong. The Wyatt Ranch turned out to be more of a town
 than a ranch. They drove through the main gate onto a private road, and after thirty minutes they began to
@@ -6242,7 +6345,8 @@ So will I, Tony thought grimly. It had been a mistake for him to come here. If h
 crowd for his mother, and he saw her in the middle of an admiring group. She was beautiful. She was almost
 sixty years old, but she looked ten years younger. Her face was unlined, and her body was firm and trim,
 
-thanks to exercise and daily massage. She was as disciplined with herself as with everyone around her, and
+ 
+thanks to exercise and daily massage. She was as disciplined with herself as with everyone around her, and
 in a perverse way, Tony admired her. To a casual onlooker, Kate Blackwell seemed to be having a marvelous time. She was chatting
 with the guests, beaming, laughing. She's loathing every moment of this, Tony thought. There isn't anything
 she won't suffer to get what she wants. He thought of Marianne and of how much she would have hated this
@@ -6302,7 +6406,8 @@ But she knew it was really the right direction. Marianne would be a wonderful wi
 dispel the darkness in him.
 Lucy had had a hysterectomy.
 
-Marianne would give him a son.
+ 
+Marianne would give him a son.
 Six months from the day Tony and Marianne were married, the Hoffman company was absorbed into
 Kruger-Brent, Ltd. The formal signing of the contracts took place in Munich as a gesture to Frederick
 Hoffman, who would run the subsidiary from Germany. Tony had been surprised by the meekness with
@@ -6363,7 +6468,8 @@ haven't had anything like it since."
 "Yes. But they went away, too." She was beginning to be alarmed. "Do you think there's something wrong
 with me, Dr. Harley?"
 
-"I'm not sure. I'd like to make a few tests—just to be on the safe side."
+ 
+"I'm not sure. I'd like to make a few tests—just to be on the safe side."
 "What kind of tests?"
 "I'd like to do a cerebral angiogram. Nothing to be concerned about. We can have it done right away."
 Three days later, Marianne received a call from Dr. Harley's
@@ -6423,7 +6529,8 @@ She wondered whether she should have told Tony about her conversations with Dr. 
 been right. It was her decision to make. Life was so wonderful that God would not let anything bad happen
 to her.
 
-When Marianne and Tony arrived at the hospital, everything was in readiness. Tony was escorted to a
+ 
+When Marianne and Tony arrived at the hospital, everything was in readiness. Tony was escorted to a
 waiting room. Marianne was taken into an examining room. The obstetrician, Dr. Mattson, took Marianne's
 blood pressure. He frowned and took it again. He looked up and said to his nurse, "Get her into the
 operating room—fast!"
@@ -6484,7 +6591,8 @@ hurried in and grabbed Tony's arms.
 "Now take it easy, Mr. Blackwell."
 Tony fought like a madman. "I want to see my wife!"
 
-Dr. John Harley hurried up to the group. "Let him go," he commanded. "Leave us alone."
+ 
+Dr. John Harley hurried up to the group. "Let him go," he commanded. "Leave us alone."
 Dr. Mattson and the interns left. Tony was weeping brokenly. "John, they k-killed Marianne. They mmurdered her."
 "She's dead, Tony, and I'm sorry. But no one murdered her. I told her months ago if she went ahead with
 this pregnancy it could kill her."
@@ -6544,7 +6652,8 @@ Dr. Harley turned to Tony. "What are you doing, Tony?"
 A savage slash. "I'm helping Mother. I'm destroying the company. It killed Marianne, you know." He
 continued slashing at the dresses in Kate's closet.
 
-Kate was rushed to the emergency ward of a midtown private hospital owned by Kruger-Brent, Ltd. She was
+ 
+Kate was rushed to the emergency ward of a midtown private hospital owned by Kruger-Brent, Ltd. She was
 given four blood transfusions during the operation to remove the bullets.
 It took three male nurses to force Tony into an ambulance, and it was only after Dr. Harley gave him an
 injection that Tony was quiet. A police unit had responded to the ambulance call, and Dr. Harley summoned
@@ -6604,7 +6713,8 @@ few weeks, Eve seemed more mature than Alexandra. Eve was the first to crawl and
 Alexandra followed quickly, but from the beginning it was Eve who was the leader. Alexandra adored her
 sister and tried to
 
-imitate everything she did. Kate spent as much time with her granddaughters as possible. They made her
+ 
+imitate everything she did. Kate spent as much time with her granddaughters as possible. They made her
 feel young. And Kate began to dream again. One day, when I'm old and ready to retire...
 On the twins' first birthday, Kate gave them a party. They each had an identical birthday cake, and there
 were dozens of presents from friends, company employees and the household staff. Their second birthday
@@ -6664,7 +6774,8 @@ Eve turned on her angrily. "All right. Go back to bed, scaredy cat. I'll do it a
 Alexandra hesitated. "What do you want me to do?"
 Eve handed her one of the boxes of matches. "Start lighting the candles."
 
-Alexandra was afraid of fire. Both girls had been warned again and again about the danger of playing with
+ 
+Alexandra was afraid of fire. Both girls had been warned again and again about the danger of playing with
 matches. They knew the horror stories about children who had disobeyed that rule. But Alexandra did not
 want to disappoint Eve, and so she obediently began lighting the candles.
 Eve watched her a moment. "You're leaving out the ones on the other side, silly," she said.
@@ -6724,7 +6835,8 @@ But content—to do what?
 Kate asked Mr. Burger, the superintendent of the asylum, "Doesn't my son do anything all day?"
 "Oh, yes, Mrs. Blackwell. He sits by the hour and paints."
 
-Her son, who could have owned the world, sat and painted all day. Kate tried not to think of the waste, that
+ 
+Her son, who could have owned the world, sat and painted all day. Kate tried not to think of the waste, that
 brilliant mind gone forever. "What does he paint?"
 The man was embarrassed. "No one can quite figure it out."
 During the next two years, Kate became seriously concerned about Alexandra. The child was definitely
@@ -6784,7 +6896,8 @@ had set up. Yes, that would be perfect for Alexandra. She was such a sweet and c
 The first step toward implementing Kate's plan was to see that Eve got into the proper school. Kate chose
 Briarcrest, an excel-lent school in South Carolina. "Both my granddaughters are delightful" Kate informed
 
-Mrs. Chandler, the headmistress, 'But you'll find that Eve is the clever one. She's an extraordi-nary girl, and
+ 
+Mrs. Chandler, the headmistress, 'But you'll find that Eve is the clever one. She's an extraordi-nary girl, and
 I'm sure you'll see to it that she has every advan-age here,"
 "All our students have every advantage here, Mrs. Blackwell. You spoke of Eve. What about her sister?"
 "Alexandra? A lovely girl." It was a pejorative. Kate stood up. "I shall be checking their progress regularly."
@@ -6845,7 +6958,8 @@ happen again."
 "It was Tommy."
 "The groom?"
 
-"Yes, ma'am. I saw him. I thought he was just tightening the cinch. I'm sure he didn't mean any harm.
+ 
+"Yes, ma'am. I saw him. I thought he was just tightening the cinch. I'm sure he didn't mean any harm.
 Alexandra orders him around a lot, and I guess he wanted to teach her a lesson. Oh, Mrs. Chandler, I wish
 you hadn't made me tell you. I don't want to get anyone in trouble." The poor child was on the verge of
 hysteria.
@@ -6905,7 +7019,8 @@ His voice broke. "Oh, Jesus! I couldn't help it." He burst into tears.
 They brought Eve into the office. Her manner was composed. She looked into Mr. Parkinson's eyes, and it
 was he who turned
 
-away first. In the office were Mrs. Chandler, the assistant principal and the chief of police of the small town
+ 
+away first. In the office were Mrs. Chandler, the assistant principal and the chief of police of the small town
 where the school was located.
 The chief of police said gently, "Do you want to tell us what happened, Eve?"
 "Yes, sir." Eve's voice was calm. "Mr. Parkinson said he wanted to discuss my English work with me. He
@@ -6964,7 +7079,8 @@ lights. It was almost two a.m. when Alexandra heard Eve sneak into the room.
 "You don't think anything could have happened to him?"
 "No, Alex. I think he probably found somebody he liked better."
 
-Of course he did, Alexandra thought. She was not really surprised. She had no idea how beautiful she was,
+ 
+Of course he did, Alexandra thought. She was not really surprised. She had no idea how beautiful she was,
 or how admirable. She had lived all her life in the shadow of her twin sister. She adored her, and it seemed
 only right to Alexandra that everyone should be attracted to Eve. She felt inferior to Eve, but it never
 occurred to her that her sister had been carefully nourishing that feeling since they were children.
@@ -7024,7 +7140,8 @@ belong."
 "A few minutes ago."
 "How did she take it?"
 
-"How did you expect her to take it? She was miserable— afraid it would make her school look bad. She
+ 
+"How did you expect her to take it? She was miserable— afraid it would make her school look bad. She
 begged me to stay."
 Alexandra sat down on the edge of the bed. "I don't know what to say."
 "You don't have to say anything. This has nothing to do with you."
@@ -7083,7 +7200,8 @@ have you been married? Twenty-five?"
 "It will be twenty-six next month," Alfred replied for her. "And I may be the only Frenchman in history who
 has never been unfaithful to his wife."
 
-Everyone laughed except Eve. During the rest of the dinner, she studied Count Maurier and his wife. Eve
+ 
+Everyone laughed except Eve. During the rest of the dinner, she studied Count Maurier and his wife. Eve
 could not imagine what the count saw in that flabby, middle-aged woman with her crepey neck. Count
 Maurier had probably never known what real lovemaking was. That boast of his was stupid. Count Alfred
 Maurier was a challenge.
@@ -7144,7 +7262,8 @@ me just one hour, I would never bother you again. You'd never even have to see m
 The count looked at Eve for a long time, weighing his decision.
 After all, he was French.
 
-They spent the afternoon in a small hotel on Rue Sainte-Anne. In all his experience before his marriage,
+ 
+They spent the afternoon in a small hotel on Rue Sainte-Anne. In all his experience before his marriage,
 Count Maurier had never bedded anyone like Eve. She was a hurricane, a nym-phet, a devil. She knew too
 much. By the end of the afternoon, Count Maurier was completely exhausted.
 As they were getting dressed, Eve said, "When will I see you again, darling?"
@@ -7205,7 +7324,8 @@ friend." She fought to keep her voice steady. "It was terrible. He telephoned an
 me drunk and—"
 "Shut up!" Kate's voice was like a whiplash. Her eyes were filled with loathing. "You're despicable."
 
-Kate had spent the most painful hour of her life, coming to a realization of the truth about her granddaughter.
+ 
+Kate had spent the most painful hour of her life, coming to a realization of the truth about her granddaughter.
 She could hear again the voice of the headmistress saying, Mrs. Blackwell, young women will be young
 women, and if one of them has a discreet affair, it is none of my business. But Eve was so blatantly
 promiscuous that for the good of the school...
@@ -7265,7 +7385,8 @@ She smiled. "I'm a big girl now. So I'm going to find the most divine little apa
 you spend the night once in a while." That's just the right note, Eve thought. Friendly, but not gushy. Don't let
 her know you're on to her.
 
-Alexandra was studying her sister with concern. "Does Gran know?"
+ 
+Alexandra was studying her sister with concern. "Does Gran know?"
 "I told her this afternoon. She hates the idea, of course, but
 she understands. I wanted to get a job, but she insisted on giving me an allowance."
 Alexandra asked, "Would you like me to come with you?"
@@ -7325,7 +7446,8 @@ dollars apiece. The policy you hold was canceled as of this morning. At the end 
 "if your grandmother is satisfied with your behavior, your weekly allowance will be doubled." He hesitated.
 "There is one final stipulation."
 
-She wants to hang me in public by my thumbs. "Yes?"
+ 
+She wants to hang me in public by my thumbs. "Yes?"
 Brad Rogers looked uncomfortable. "Your grandmother does not wish ever to see you again, Eve."
 Well, I want to see you one more time, old woman. I want to see you dying in agony.
 Brad's voice trickled through to the cauldron of Eve's mind. "If you have any problems, you are to telephone
@@ -7385,7 +7507,8 @@ that be satisfactory?"
 "Perfectly," Eve said, trying not to show her exhilaration.
 "Fine. If you'll just give me the details of the trust ..." He picked up a pen.
 
-"You can get in touch with Brad Rogers at Kruger-Brent. He'll give you all the information you need." "I'll give
+ 
+"You can get in touch with Brad Rogers at Kruger-Brent. He'll give you all the information you need." "I'll give
 him a call right away." Eve rose. "How long will it take?"
 "No more than a day or two. I'll rush it through personally." She held out a lovely, delicate hand. "You're very
 kind."
@@ -7446,7 +7569,8 @@ Alexandra dancing with an attractive man. Eve was not looking at Alexandra, she 
 And realizing that if Alexandra married and had a son, it would be a disaster for Eve and her plans.
 She stared at the picture a long time.
 
-Over a period of a year, Alexandra had called Eve regularly, for lunch or dinner, and Eve had always put her
+ 
+Over a period of a year, Alexandra had called Eve regularly, for lunch or dinner, and Eve had always put her
 off with excuses. Now Eve decided it was time to have a talk with her sister. She invited Alexandra to her
 apartment.
 Alexandra had not seen the apartment before, and Eve braced herself for pity. But all Alexandra said was,
@@ -7507,7 +7631,8 @@ same things; they were comfortable with one another because they spoke the same 
 the commonality of the best boarding schools and colleges, luxurious estates, yachts, private jets and tax
 problems.
 
-A columnist had dubbed them the "jet set," an appellation they derided publicly and enjoyed privately. They
+ 
+A columnist had dubbed them the "jet set," an appellation they derided publicly and enjoyed privately. They
 were the privileged, the chosen few, set apart from all others by a discriminating god. Let the rest of the
 world believe that money could not buy everything. These people knew better. Money bought them beauty
 and love and luxury and a place in heaven. And it was from all this that Eve had been excluded by the whim
@@ -7566,7 +7691,8 @@ before. "Who are you?" Eve asked.
 "Ah, you mean in the philosophical sense. The real me. Nothing colorful to tell, I'm afraid. I'm Greek. My
 family grows olives and other things."
 
-That Mellis! The Mellis food brands could be found in every corner grocery store and supermarket in
+ 
+That Mellis! The Mellis food brands could be found in every corner grocery store and supermarket in
 America.
 "Are you married?" Eve asked.
 He grinned. "Are you always this direct?"
@@ -7627,7 +7753,8 @@ When she regained consciousness and opened her eyes, George Mellis was sitting i
 smoking a cigarette. He moved over to the bed and stroked her forehead. She cringed from his touch.
 "How do you feel, darling?"
 
-Eve tried to sit up, but the pain was too great. She felt as though she bad been ripped apart. "You
+ 
+Eve tried to sit up, but the pain was too great. She felt as though she bad been ripped apart. "You
 goddamned animal..." Her voice was a ragged whisper.
 He laughed. "I was gentle with you."
 She looked at him in disbelief.
@@ -7687,7 +7814,8 @@ fear.
 He walked up to her and said, "Good morning, Eve. Are you all right?" His face was filled with genuine
 concern. He touched her bruised cheek gently. "My darling, you are so beautiful." He pulled up a chair and
 
-straddled it, sitting across from her, and gestured toward the sparkling sea. "Have you ever seen any-thing
+ 
+straddled it, sitting across from her, and gestured toward the sparkling sea. "Have you ever seen any-thing
 so lovely?"
 It was as though the previous night had never happened. She listened to George Mellis as he went on
 talking, and she felt once again the powerful magnetism of the man. Even after the nightmare she had
@@ -7747,7 +7875,8 @@ George looked around the little apartment, expertly appraising the value of its 
 He moved toward Eve, his arms outstretched. "I've thought about you every minute."
 She evaded his embrace. "Wait. I have something to tell you, George."
 
-His black eyes bored into hers. "We'll talk later."
+ 
+His black eyes bored into hers. "We'll talk later."
 "We'll talk now." She spoke slowly and distinctly. "If you ever touch me like that again, I'm going to kill you."
 He looked at her, his lips curved in a half smile. "What kind of joke is that?"
 "It's not a joke. I mean it. I have a business proposition for you."
@@ -7807,7 +7936,8 @@ One hour later, Alexandra was thinking, They may be the best, but they're certai
 Pinkerton had taken Alexandra around to introduce her to the staff, and the reception everywhere had been
 icy. They acknowledged her presence and then quickly found other things to do. Alexandra sensed their
 
-resentment, but she had no idea what had caused it. Pinkerton led her into a smoke-filled conference room.
+ 
+resentment, but she had no idea what had caused it. Pinkerton led her into a smoke-filled conference room.
 Against one wall was a cabinet filled with Clios and Art Directors' awards. Seated around a table were a
 woman and two men, all of them chain-smoking. The woman was short and dumpy, with rust-colored hair.
 The men were in their middle thirties, pale and harassed-looking.
@@ -7866,7 +7996,8 @@ At noon Alexandra said to Alice Koppel, "If you're free for lunch, I thought we 
 Alexandra looked at Vince Barnes. "Me, too," he said.
 She looked at Marty Bergheimer. "I'm all booked up."
 
-Alexandra was too upset to eat lunch. They were making her feel as though she were a pariah, and she
+ 
+Alexandra was too upset to eat lunch. They were making her feel as though she were a pariah, and she
 found herself getting angry. She did not intend to give up. She was going to find a way to reach them, to let
 them know that deep down under the Blackwell name she was one of them. She sat at meetings and
 listened to Aaron Berlcley and Norman Mathews and Lucas Pinkerton tongue-lash the creators who were
@@ -7927,7 +8058,8 @@ Eve sounded confident, but she had reservations and they concerned George Mellis
 do her part, but she was not sure George would be able to do his. He was unstable, and there was no room
 for error. One mistake, and the whole plan would fall apart.
 
-She said to him now, "Make up your mind. Are you in or out?"
+ 
+She said to him now, "Make up your mind. Are you in or out?"
 He studied her for a long time. "I'm in." He moved close to her and stroked her shoulders. His voice was
 husky. "I want to be all the way in."
 Eve felt a sexual thrill go through her. "All right," she whispered, "but we do it my way."
@@ -7988,7 +8120,8 @@ had not occurred to him that they would be identical twins.
 Alexandra was staring at George, fascinated.
 Eve said, "Won't you join us?"
 
-"I wish I could. I'm afraid I'm late for an appointment. Another time, perhaps." He looked at Alexandra. "And
+ 
+"I wish I could. I'm afraid I'm late for an appointment. Another time, perhaps." He looked at Alexandra. "And
 soon, I hope."
 They watched him leave. "Good heavens!" Alexandra said. "Who was that?"
 "Oh, he's a friend of Nita Ludwig. I met him at her house party."
@@ -8049,7 +8182,8 @@ George mixed at the table with a deft skill.
 "Ah, it's one of the passions of my life. My mother taught me. She was a brilliant cook."
 "Are you close to your family, George?"
 
-He smiled, and Alexandra thought it was the most attractive smile she had ever seen.
+ 
+He smiled, and Alexandra thought it was the most attractive smile she had ever seen.
 'I'm Greek," he said simply. "I'm the oldest of three brothers and two sisters, and we are like one." A look of
 sadness came into his eyes. "Leaving them was the most difficult thing I ever had to do. My father and my
 brothers begged me to stay. We have a large business, and they felt I was needed there."
@@ -8107,7 +8241,8 @@ yachting trips and parties, and all the rest of it."
 He fixed his dark eyes on Alexandra. "I think you are the one woman who could change all that. Forever."
 Alexandra felt her pulse quicken. "I—I don't know what to say."
 
-"Please. Don't say anything." His lips were very close to hers, and Alexandra was ready. But he made no
+ 
+"Please. Don't say anything." His lips were very close to hers, and Alexandra was ready. But he made no
 move. Don't make any advances, Eve had warned. Not on the first night. If you do, you become one of a
 long line of Romeos dying to get their hands on her and her fortune. She has to make the first move.
 And so, George Mellis merely held Alexandra's hand in his until the car glided to a smooth stop in front of
@@ -8168,7 +8303,8 @@ she ever saw him again.
 "I wanted to call you sooner," George apologized, "but I just returned from Athens a few minutes ago."
 Alexandra's heart melted. "You've been in Athens?"
 
-"Yes. Remember the evening we had dinner together?"
+ 
+"Yes. Remember the evening we had dinner together?"
 Alexandra remembered.
 "The next morning Steve, my brother, telephoned me— My father had a heart attack."
 "Oh, George!" She felt so guilty for having thought such terrible things about him. "How is he?"
@@ -8229,7 +8365,8 @@ grateful lovers— men and women—who had tried to buy his affection with expensive
 succeeded, always temporarily.
 "It's a lovely apartment," Alexandra exclaimed.
 
-He went over to her and slowly turned her around so that the diamond necklace twinkled in the subdued
+ 
+He went over to her and slowly turned her around so that the diamond necklace twinkled in the subdued
 lighting of the room. "It becomes you, darling."
 And he kissed her gently, and then more urgently, and Alexandra was hardly aware when he led her into the
 bedroom. The room was done in tones of blue, with tasteful, masculine furniture. In the center of the room
@@ -8289,7 +8426,8 @@ would please her. When he took her to a museum, he was excited about the same pa
 was incredible to Alexandra how identical their tastes were. She looked for a single flaw in George Mellis,
 and she could find none. He was perfect. She grew more and more eager for Kate to meet him.
 
-But George always found an excuse to avoid meeting Kate Blackwell.
+ 
+But George always found an excuse to avoid meeting Kate Blackwell.
 "Why, darling? You'll love her. Besides, I want to show you off."
 "I'm sure she's wonderful," George said boyishly. "I'm terrified she'll think I'm not good enough for you."
 'That's ridiculous!" His modesty touched her. "Gran will adore you."
@@ -8349,7 +8487,8 @@ under control, and you've got it made.
 Kate had checked on the net worth of Mellis and Company. According to the Dun & Bradstreet report, it was
 in excess of thirty million dollars.
 
-"Are you close to your family, Mr. Mellis?"
+ 
+"Are you close to your family, Mr. Mellis?"
 George's face lighted up. "Perhaps too close." He allowed a smile to play on his lips. "We have a saying in
 our family, Mrs. Blackwell. When one of us cuts his finger, the rest of us bleed. We are in touch with each
 other constantly." He had not spoken to any member of his family for more than three years.
@@ -8409,7 +8548,8 @@ frozen at his desk, in a panic. What he was about to do would put him in prison 
 he would own the world.
 "Aren't you going to answer your phone?"
 
-One of the partners was standing over him, and George realized that his phone had been ringing for—how
+ 
+One of the partners was standing over him, and George realized that his phone had been ringing for—how
 long? He must
 act normally and not do anything that might arouse suspicion. He scooped up the phone. "George Mellis,"
 and smiled reassuringly at the partner.
@@ -8469,7 +8609,8 @@ represented shares of every company on the New York and American stock exchanges
 shares represented by each certificate was printed on the face of the certificate and ranged from one share
 to one hundred thousand shares. George went through them swiftly and expertly. He selected certificates of
 
-various blue-chip companies, representing a value of one million dollars. He slipped the pieces of paper into
+ 
+various blue-chip companies, representing a value of one million dollars. He slipped the pieces of paper into
 his inside jacket pocket, closed the drawer and walked back to the guard.
 "That was fast," the guard said.
 George shook his head. "The computers came up with the wrong numbers. I'll have to straighten it out in the
@@ -8530,7 +8671,8 @@ And George replied, 'I'm afraid that's impossible, Helen. I'm getting married."
 Three days before the wedding ceremony was to take place, George arrived at the Blackwell house, his face
 filled with distress. "I've just had terrible news," he said. "My father suffered another heart attack."
 
-"Oh, I'm so sorry," Kate said. "Is he going to be all right?"
+ 
+"Oh, I'm so sorry," Kate said. "Is he going to be all right?"
 "I've been on the phone with the family all night. They think he'll pull through, but of course they won't be
 able to attend the wedding."
 "We could go to Athens on our honeymoon and see them," Alexandra suggested.
@@ -8590,7 +8732,8 @@ city were swarming with colorfully dressed tourists from the cruise ships, shopp
 in small bazaars. Kingston is a city of commerce, with refineries, warehouses and fisheries, but with its
 landlocked harbor it is also a city of beautiful old buildings and museums and libraries.
 
-George was interested in none of these things. He was filled with a desperate need that had been building
+ 
+George was interested in none of these things. He was filled with a desperate need that had been building
 up in him for weeks and had to be satisfied. He walked into the first bar he saw and spoke to the bartender.
 Five minutes later George was accompanying a fifteen-year-old black prostitute up the stairs of a cheap
 hotel. He was with her for two hours. When George left the room, he left alone, got into the car and drove
@@ -8650,7 +8793,8 @@ She sat there thoughtfully for a moment. "I should change my will, too, shouldn'
 "What for?" He sounded surprised.
 "You're my husband. Everything I have is yours."
 
-He withdrew his hand. "Alex, I don't give a damn about your money."
+ 
+He withdrew his hand. "Alex, I don't give a damn about your money."
 "I know that, George, but you're right. It is better to look ahead and be prepared." Her eyes filled with tears.
 "I know I'm
 an idiot, but I'm so happy that I can't bear to think of anything happening to either of us. I want us to go on
@@ -8711,7 +8855,8 @@ he picked it up. "Hello."
 Alexandra was standing near him. He looked over at her and frowned. "What time did he call?"
 "Is this Mr. Mellis?"
 
-"Yes."
+ 
+"Yes."
 "You left a ten o'clock call, sir."
 Alexandra was at his side.
 "Very well," he said into the phone. "Tell him I'm on my way. I'll meet him at the Pan Am Clipper Club."
@@ -8771,7 +8916,8 @@ on the bed, covered with blood. Her nose was smashed in, her body was covered wi
 burns and her eyes were swollen shut. Her jaw was broken, and she was whimpering out of the side of her
 mouth. "Stop it, stop it, stop it..."
 
-George shook his head to clear it. As the reality of the situation hit him, he was filled with sudden panic.
+ 
+George shook his head to clear it. As the reality of the situation hit him, he was filled with sudden panic.
 There was no way he could ever explain what he had done. He had thrown everything away. Everything!
 He leaned over her. "Eve?"
 She opened one swollen eye. "Doctor ... Get... a ... doctor-----" Each word was a drop of pain. "Harley ...
@@ -8830,7 +8976,8 @@ How right you are, George thought.
 distant past.
 "What on earth kept you so late?"
 
-"His plane was delayed," George said glibly. "He wanted me to stay with him. I kept thinking he'd take off at
+ 
+"His plane was delayed," George said glibly. "He wanted me to stay with him. I kept thinking he'd take off at
 any minute, and then finally it got too late for me to telephone you. I'm sorry."
 "It's all right, now that you're here."
 George thought of Eve as she was being carried out on the stretcher. Out of her broken, twisted mouth, she
@@ -8891,7 +9038,8 @@ That was the last thing he would allow. "I'm sorry," he smiled. "We're fresh out
 She was afraid to ask the next question. "How am I—how am I going to look when these bandages come
 ofF?"
 
-"You're going to look terrific. Exactly the way you did before your accident."
+ 
+"You're going to look terrific. Exactly the way you did before your accident."
 "I don't believe you."
 "You'll see. Now, do you want to tell me what happened? I have to write up a police report."
 There was a long silence. "I was hit by a truck."
@@ -8951,7 +9099,8 @@ Eve knew it was much farther for him to travel to see her, and yet he still appe
 "Not like you."
 * * *
 
-Five weeks after Eve entered the clinic, Keith Webster removed the bandages. He turned her head from
+ 
+Five weeks after Eve entered the clinic, Keith Webster removed the bandages. He turned her head from
 side to side. "Do you feel any pain?" he asked.
 "No."
 "Any tightness?"
@@ -9011,7 +9160,8 @@ needed him. They stood there, smiling at each other.
 "Eve, I can't tell you how sorry I—"
 She held up a hand. "Let's not discuss it. It's over. Nothing has changed."
 
-But George remembered that something had changed. "I got a call from Harley," he said. "He's arranged for
+ 
+But George remembered that something had changed. "I got a call from Harley," he said. "He's arranged for
 me to see some damned psychiatrist."
 Eve shook her head. "No. Tell him you haven't time."
 "I tried. If I don't go, he'll turn in a report of the—the accident to the police."
@@ -9071,7 +9221,8 @@ Mellis made it sound as though he had merely slapped her once or twice. If that 
 would not have insisted that Peter see Mellis.
 "You say you hit her. Did you hurt her?"
 
-"As a matter of fact, I hurt her pretty badly. As I told you, Doctor, I blacked out. When I came to, I—I couldn't
+ 
+"As a matter of fact, I hurt her pretty badly. As I told you, Doctor, I blacked out. When I came to, I—I couldn't
 believe it."
 When I came to. The classic defense. I didn't do it, my subconscious did it.
 "Do you have any idea what caused that reaction?"
@@ -9132,7 +9283,8 @@ that work miracles."
 Dr. Harley walked her to the door of his office. He wished Kate were not so unforgiving. Eve was such a
 caring person.
 
-When Eve returned to her apartment, she carefully cold-creamed away the red scar on her forehead.
+ 
+When Eve returned to her apartment, she carefully cold-creamed away the red scar on her forehead.
 The following morning at ten o'clock, Dr. Harley's receptionist announced, "Mrs. George Mellis is here to see
 you, Doctor.'
 "Send her in."
@@ -9193,7 +9345,8 @@ going to ask you about that.
 "You told me your mother and father never physically punished you."
 "That is correct."
 
-"Would you say you were an obedient child?"
+ 
+"Would you say you were an obedient child?"
 Careful. There are traps here. "About average, I suppose."
 "The average child usually gets punished at some time or another for breaking the rules of the grown-up
 world."
@@ -9254,7 +9407,8 @@ again.
 "I agree with you," she said slowly. "I think it's time."
 He stopped pacing. "When?"
 
-"Next week."
+ 
+"Next week."
 The session was almost over and George Mellis had not once mentioned his wife. Now, suddenly he said,
 "I'm worried about
 Alexandra, Dr. Templeton. Her depression seems to be worse. Last night she kept talking about drowning. I
@@ -9314,7 +9468,8 @@ things, Peter chided himself.
 A woman was drowning in the cold sea, and he was trying to swim to her side, but the waves were too high,
 and she kept sinking under them and rising again. Hold on, he shouted. I'm coming. He tried to swim faster,
 
-but bis arms and legs seemed leaden, and he watched as she went down again. When he reached the
+ 
+but bis arms and legs seemed leaden, and he watched as she went down again. When he reached the
 place where she had disappeared, he looked around and saw an enormous white shark bearing down on
 him. Peter Templeton woke up. He turned on the lights and sat up in bed, thinking about his dream.
 Early the following morning, he telephoned Detective Lieutenant Nick Pappas.
@@ -9374,7 +9529,8 @@ Does that satisfy you?" It did more than satisfy Peter, it terrified him. "Thank
 "I will as soon as I can, Nick. Give my love to Tina." And Peter hung up. He had a lot to think about. George
 Mellis was coming in at noon.
 
-Dr. John Harley was in the middle of an examination when his receptionist said, "Mrs. George Mellis is here
+ 
+Dr. John Harley was in the middle of an examination when his receptionist said, "Mrs. George Mellis is here
 to see you, Doctor. She has no appointment, and I told her your schedule is—"
 John Harley said, "Bring her in the side door and put her in my office."
 Her face was paler than the last time, and the shadows under her eyes were darker. "I'm sorry to barge in on
@@ -9434,7 +9590,8 @@ wondered if we could meet. Perhaps lunch?"
 "Yes, certainly, Dr. Templeton."
 They made an appointment for the following day.
 
-They were seated at a corner table at La Grenouille. From the moment Alexandra had walked into the
+ 
+They were seated at a corner table at La Grenouille. From the moment Alexandra had walked into the
 restaurant, Peter had been unable to take his eyes off her. She was dressed simply in a white skirt and
 blouse that showed off her figure, and she wore a single strand of pearls around her neck. Peter looked for
 signs of the tiredness and depression Dr. Harley had mentioned. There! were none. If Alexandra was aware
@@ -9493,7 +9650,8 @@ ages ago.
 Now, with the results of the examination in front of him, John Harley said, "I wish I were in your condition,
 Kate."
 
-"Cut the soft-soap, John. What's my problem?"
+ 
+"Cut the soft-soap, John. What's my problem?"
 "Age, mostly. There's a little hardening of the arteries, and—"
 "Arteriosclerosis?"
 "Oh. Is that the medical term for it?" Dr. Harley asked. "Whatever it is, you've got it."
@@ -9553,7 +9711,8 @@ want to see me. Oh, Gran, you don't know how lonely I've been."
 Kate took her granddaughter's hand and said, "Can you forgive me?"
 Eve looked her in die eye and said solemnly, "Of course, I can forgive you."
 
-The moment Kate left, Eve mixed herself a stiff Scotch and water and sank down onto the couch to relive
+ 
+The moment Kate left, Eve mixed herself a stiff Scotch and water and sank down onto the couch to relive
 the incredible scene that had just occurred. She could have shouted aloud with joy. She and Alexandra were
 now the sole heirs to the Blackwell fortune. It would be easy enough to get rid of Alexandra. It was George
 Mellis Eve was concerned about. He had suddenly become a hindrance.
@@ -9614,7 +9773,8 @@ The man looked at the clock above his head. "You missed this one by two minutes.
 "That's too— Damn it!"
 He watched her regain control of herself.
 
-"Very well. I'll wait. Is there a coffee shop around here?"
+ 
+"Very well. I'll wait. Is there a coffee shop around here?"
 "No, ma'am. But there's a coffee machine down the corridor."
 "Thank you."
 He looked after her and thought, What a beauty. I sure envy the guy she's in such a hurry to meet.
@@ -9673,7 +9833,8 @@ the boat started heeling, its lee rail running under.
 "It's wild and lovely," she called out. "I'm so happy, darling."
 He smiled. "So am I."
 
-In an odd way, it gave George Mellis pleasure that Alexandra was happy, that she was going to die happy.
+ 
+In an odd way, it gave George Mellis pleasure that Alexandra was happy, that she was going to die happy.
 He scanned the horizon to make certain no other boats were close by. There were only faint lights from afar.
 It was time.
 He put the boat on automatic pilot, took one last look around the empty horizon and walked over to the lee
@@ -9733,7 +9894,8 @@ Eve said, "I am now. I've had a hellish time. I got involved with a man who's a 
 Washington. He's insanely jealous and—" She laughed. "I can't go into the details
 over the telephone. The phone company will take out both our phones. I'll tell you all about it Monday."
 
-"All right," Alexandra said. She was enormously relieved.
+ 
+"All right," Alexandra said. She was enormously relieved.
 "Have a nice weekend," Eve told her. "How's George?"
 "He's not here." Alexandra tried to keep the note of concern out of her voice. "I suppose he got tied up on
 business and hasn't had a chance to call me."
@@ -9794,7 +9956,8 @@ Alexandra was trying to control her emotions, but he could see what an effort it
 I don't have to tell you how much I'll appreciate anything you can do."
 'That's my job," Lieutenant Ingram replied.
 
-When Lieutenant Ingram returned to the station, he began calling hospitals and morgues. The responses
+ 
+When Lieutenant Ingram returned to the station, he began calling hospitals and morgues. The responses
 were negative. There was no accident report on George Mellis. Lieutenant Ingram's next move was to call a
 reporter friend on the Maine Courier. After that, the lieutenant sent out a missing person all-points-bulletin.
 The afternoon newspapers carried the story in headlines:
@@ -9852,7 +10015,8 @@ caught against the breakwater. What puzzled the lieutenant was that the body had
 the tide from the direction of Dark Harbor. Where George Mellis was not supposed to have been.
 Detective Nick Pappas flew up to Maine to have a talk with Lieutenant Ingram.
 
-"I think my department might be of some help to you in this case," Nick said. "We have some interesting
+ 
+"I think my department might be of some help to you in this case," Nick said. "We have some interesting
 background information on George Mellis. I know this is out of our jurisdiction, but if you were to ask for our
 cooperation, we'd be happy to give it to you, Lieutenant."
 In the twenty years Lieutenant Ingram had been with the Waldo County Sheriff's Department, the only real
@@ -9913,7 +10077,8 @@ Blackwell dock, where the Corsair was tied up. Two hours later, the foren-sics e
 the jackpot, Nick. There are some bloodstains on the underside of the lee rail."
 That afternoon, the police laboratory verified that the stains matched George Mellis's blood type.
 
-Manhattan's "silk stocking" police precinct was busier than usual. A series of all-night drug busts had filled
+ 
+Manhattan's "silk stocking" police precinct was busier than usual. A series of all-night drug busts had filled
 the prisoners' cage to capacity, and the holding cells were crowded with prostitutes, drunks and sex
 offenders. The noise and the stench competed for Peter Templeton's attention, as he was escorted through
 the din to Lieutenant Detective Pappas's office.
@@ -9974,7 +10139,8 @@ Dr. Harley was studying him.
 quiet. Well?"
 "Sit down," Dr. Harley said. Nick Pappas sat. "Alexandra has been having some emotional problems lately."
 
-"What kind of emotional problems?"
+ 
+"What kind of emotional problems?"
 "She's been in a severe depression. She was talking about committing suicide."
 "Did she mention using a knife?"
 "No. She said she had a recurrent dream about drowning. I gave her Wellbutrin. She came back and told me
@@ -10033,7 +10199,8 @@ just yet. I'd like to think about this a little more."
 police think Alexandra killed George. That's impossible. I remember when they were little girls ..."
 Dr. Webster was no longer listening.
 
-When he left Dr. Harley, Keith Webster was lost in thought. He had certainly not left even the trace of a scar
+ 
+When he left Dr. Harley, Keith Webster was lost in thought. He had certainly not left even the trace of a scar
 on that beautiful face. Yet, John Harley had seen it. It was possible that Eve could have gotten a scar
 afterward in another accident, but then why had she lied? It made no sense.
 He examined it from every angle, going over all the different possibilities, and when he had come to a
@@ -10094,7 +10261,8 @@ When Keith Webster finished, Eve said, "I don't know what
 you're thinking, but whatever it is, you're wasting my time. As for the scar, I was playing a little joke on my
 sister. It's as simple as that Now, if you've quite finished, I have a great deal to do."
 
-He remained seated. "I'm sorry to have bothered you. I just thought I should talk to you before I went to the
+ 
+He remained seated. "I'm sorry to have bothered you. I just thought I should talk to you before I went to the
 police." He could see that he really had her attention now.
 "Why on earth would you go to the police?"
 "Fm obliged to report the attack George Mellis made on you. Then there's that business about you and the
@@ -10155,7 +10323,8 @@ married your granddaughter and suddenly found himself with his hands on a large 
 up Alexandra once too often and when she asked for a divorce, he refused. Her only way to get rid of him
 was to kill him."
 
-Kate was staring at him, her face pale.
+ 
+Kate was staring at him, her face pale.
 "I began looking around for evidence to back up my theory. We knew George Mellis was at Cedar Hill House
 before he disappeared. There are only two ways to get to Dark Harbor from the mainland—plane or
 ferryboat. According to the local sheriffs office, George Mellis didn't use either. I don't believe in miracles,
@@ -10215,7 +10384,8 @@ to lunch at the Lobster Pound, a little restaurant facing the bay in Lincolnvill
 George is dead. I know it has happened, but it—it still seems unreal."
 "It's nature's way of cushioning the shock until the pain becomes bearable."
 
-"It's so senseless. He was such a fine man." She looked up at Peter. "You spent time with him. He talked to
+ 
+"It's so senseless. He was such a fine man." She looked up at Peter. "You spent time with him. He talked to
 you. Wasn't he a wonderful person?"
 "Yes," Peter said slowly. "Yes, he was."
 Eve said, "I want an annulment, Keith."
@@ -10276,7 +10446,8 @@ go back to work, dear. I have a lot of operations scheduled. Will you be all rig
 Eve barely managed to keep a straight face. 'Til try." Keith was up and out early every morning long before
 Eve awakened, and when she went into the kitchen she found he had made coffee and laid out all the
 
-breakfast things for her. He opened a generous bank account in Eve's name and kept it replenished. She
+ 
+breakfast things for her. He opened a generous bank account in Eve's name and kept it replenished. She
 spent his money recklessly. As long as she was enjoying herself, Keith was happy. Eve bought expensive
 jewelry for Rory, with whom she spent almost every afternoon. He worked very little.
 "I can't take just any part," he complained to Eve. "It would hurt my image."
@@ -10337,7 +10508,8 @@ They're cute."
 Each word was a stab, a reminder of the age difference between them and the fact that she was twenty-five
 years old. They made love again, but for the first time Eve's mind was elsewhere.
 
-It was almost nine o'clock when Eve arrived home. Keith was basting a roast in the oven.
+ 
+It was almost nine o'clock when Eve arrived home. Keith was basting a roast in the oven.
 He kissed her on the cheek. "Hello, dear. I've made some of your favorite dishes. We're having—"
 "Keith, I want you to remove these wrinkles."
 He blinked. "What wrinkles?"
@@ -10398,7 +10570,8 @@ Eve awakened early on Friday and waited impatiently for Keith.
 "It's almost noon," she complained. "Where the hell have you been?"
 "I'm sorry, darling," he apologized. "I've been in surgery all morning and—"
 
-"I don't give a damn about that. Take these bandages off. I want to see."
+ 
+"I don't give a damn about that. Take these bandages off. I want to see."
 "Very well."
 Eve sat up and was still, as he deftly cut the bandages away from her face. He stood back to study her, and
 she saw the satis-faction in his eyes. "Perfect."
@@ -10457,7 +10630,8 @@ said, "We're both going."
 Tony Blackwell was in the garden of the sanitarium, painting, when his companion approached. "A letter for
 you, Tony."
 
-Tony opened the envelope, and a vague smile lighted his face. "That's nice," he said. "I like birthday
+ 
+Tony opened the envelope, and a vague smile lighted his face. "That's nice," he said. "I like birthday
 parties."
 Peter Templeton studied the invitation. "I can't believe the old girl's ninety years old. She's really amazing."
 "Yes, isn't she?" Alexandra agreed. And she added thoughtfully, "Do you know something sweet? Robert
@@ -10488,5 +10662,3 @@ his own life."
 "You're right," Kate sighed. "I'm an old woman, and I have no right to interfere. If he wants to be a musician,
 that's what he should be." She turned to the boy, and her eyes shone with love. "Mind you, Robert, I can't
 promise anything, but I'm going to try to help you. I know someone who's a dear friend of Zubin Mehta."
-
-
